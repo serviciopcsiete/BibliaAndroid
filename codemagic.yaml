@@ -1,7 +1,6 @@
 workflows:
   android-debug:
     name: Biblia Android Debug
-
     max_build_duration: 60
 
     environment:
@@ -10,6 +9,7 @@ workflows:
     scripts:
       - name: Verificar entorno
         script: |
+          set -e
           echo "=== JAVA ==="
           java -version
           echo "=== DIRECTORIO ==="
@@ -17,25 +17,22 @@ workflows:
 
       - name: Configurar Android SDK
         script: |
+          set -e
           echo "sdk.dir=$ANDROID_SDK_ROOT" > "$CM_BUILD_DIR/local.properties"
 
       - name: Preparar Gradle 9.6.0
         script: |
           set -e
-
           echo "Descargando Gradle 9.6.0..."
           curl -L https://services.gradle.org/distributions/gradle-9.6.0-bin.zip -o gradle-9.6.0-bin.zip
-
           echo "Descomprimiendo Gradle 9.6.0..."
           unzip -q gradle-9.6.0-bin.zip
-
           echo "=== VERSION DE GRADLE ==="
           ./gradle-9.6.0/bin/gradle --version
 
       - name: Compilar APK Debug
         script: |
           set -e
-
           echo "=== COMPILANDO BIBLIA ANDROID ==="
           ./gradle-9.6.0/bin/gradle assembleDebug
 
