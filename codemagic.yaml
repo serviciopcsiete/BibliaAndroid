@@ -1,0 +1,24 @@
+workflows:
+  android-debug:
+    name: Biblia Android Debug
+
+    max_build_duration: 60
+
+    environment:
+      java: 17
+
+    scripts:
+      - name: Configurar Android SDK
+        script: |
+          echo "sdk.dir=$ANDROID_SDK_ROOT" > "$CM_BUILD_DIR/local.properties"
+
+      - name: Dar permisos a Gradle
+        script: |
+          chmod +x gradlew
+
+      - name: Compilar APK Debug
+        script: |
+          ./gradlew assembleDebug
+
+    artifacts:
+      - app/build/outputs/apk/debug/*.apk
