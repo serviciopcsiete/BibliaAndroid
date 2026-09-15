@@ -8,17 +8,37 @@ workflows:
       java: 17
 
     scripts:
+      - name: Verificar entorno
+        script: |
+          echo "=== JAVA ==="
+          java -version
+          echo "=== DIRECTORIO ==="
+          pwd
+
       - name: Configurar Android SDK
         script: |
           echo "sdk.dir=$ANDROID_SDK_ROOT" > "$CM_BUILD_DIR/local.properties"
 
-      - name: Dar permisos a Gradle
+      - name: Preparar Gradle 9.6.0
         script: |
-          chmod +x gradlew
+          set -e
+
+          echo "Descargando Gradle 9.6.0..."
+          curl -L https://services.gradle.org/distributions/gradle-9.6.0-bin.zip -o gradle-9.6.0-bin.zip
+
+          echo "Descomprimiendo Gradle 9.6.0..."
+          unzip -q gradle-9.6.0-bin.zip
+
+          echo "=== VERSION DE GRADLE ==="
+          ./gradle-9.6.0/bin/gradle --version
 
       - name: Compilar APK Debug
         script: |
-          ./gradlew assembleDebug
+          set -e
+
+          echo "=== COMPILANDO BIBLIA ANDROID ==="
+          ./gradle-9.6.0/bin/gradle assembleDebug
 
     artifacts:
       - app/build/outputs/apk/debug/*.apk
+      - app/build/outputs/logs/*.txt
