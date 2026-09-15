@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ansiedad",
+    "name": "Ansiedad",
+    "references": [
+      "Filipenses 4:6-7",
+      "Mateo 6:25-34",
+      "1 Pedro 5:7",
+      "Salmos 55:22"
+    ]
+  },
+  {
+    "id": "miedo",
+    "name": "Miedo",
+    "references": [
+      "Isaías 41:10",
+      "Salmos 56:3-4",
+      "Josué 1:9",
+      "2 Timoteo 1:7"
+    ]
+  },
+  {
+    "id": "esperanza",
+    "name": "Esperanza",
+    "references": [
+      "Romanos 15:13",
+      "Jeremías 29:11",
+      "Salmos 42:11",
+      "Romanos 5:3-5"
+    ]
+  },
+  {
+    "id": "fortaleza",
+    "name": "Fortaleza",
+    "references": [
+      "Isaías 40:31",
+      "Filipenses 4:13",
+      "Salmos 46:1",
+      "2 Corintios 12:9"
+    ]
+  },
+  {
+    "id": "paz",
+    "name": "Paz",
+    "references": [
+      "Juan 14:27",
+      "Filipenses 4:7",
+      "Isaías 26:3",
+      "Colosenses 3:15"
+    ]
+  },
+  {
+    "id": "perdon",
+    "name": "Perdon",
+    "references": [
+      "1 Juan 1:9",
+      "Efesios 4:32",
+      "Colosenses 3:13",
+      "Mateo 6:14"
+    ]
+  },
+  {
+    "id": "duelo",
+    "name": "Duelo",
+    "references": [
+      "Salmos 34:18",
+      "Mateo 5:4",
+      "Apocalipsis 21:4",
+      "Juan 11:25-26"
+    ]
+  },
+  {
+    "id": "decisiones",
+    "name": "Decisiones",
+    "references": [
+      "Proverbios 3:5-6",
+      "Santiago 1:5",
+      "Salmos 32:8",
+      "Proverbios 16:3"
+    ]
+  },
+  {
+    "id": "familia",
+    "name": "Familia",
+    "references": [
+      "Josué 24:15",
+      "Efesios 6:1-4",
+      "Colosenses 3:13-14",
+      "Proverbios 22:6"
+    ]
+  },
+  {
+    "id": "gratitud",
+    "name": "Gratitud",
+    "references": [
+      "1 Tesalonicenses 5:18",
+      "Salmos 100:4",
+      "Colosenses 3:17",
+      "Filipenses 4:6"
+    ]
+  },
+  {
+    "id": "soledad",
+    "name": "Soledad",
+    "references": [
+      "Deuteronomio 31:8",
+      "Salmos 23:4",
+      "Mateo 28:20",
+      "Hebreos 13:5"
+    ]
+  },
+  {
+    "id": "trabajo",
+    "name": "Trabajo",
+    "references": [
+      "Colosenses 3:23",
+      "Proverbios 16:3",
+      "Proverbios 22:29",
+      "Efesios 4:28"
+    ]
+  }
+]

@@ -1,0 +1,6760 @@
+[
+  {
+    "planId": "year",
+    "day": 1,
+    "passages": [
+      "Génesis 1",
+      "1 Crónicas 28",
+      "Isaías 52",
+      "Gálatas 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 2,
+    "passages": [
+      "Génesis 2",
+      "1 Crónicas 29",
+      "Isaías 53",
+      "Gálatas 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 3,
+    "passages": [
+      "Génesis 3",
+      "2 Crónicas 1",
+      "Isaías 54",
+      "Efesios 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 4,
+    "passages": [
+      "Génesis 4",
+      "2 Crónicas 2",
+      "Isaías 55",
+      "Efesios 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 5,
+    "passages": [
+      "Génesis 5",
+      "2 Crónicas 3",
+      "Isaías 56",
+      "Efesios 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 6,
+    "passages": [
+      "Génesis 6",
+      "2 Crónicas 4",
+      "Isaías 57",
+      "Efesios 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 7,
+    "passages": [
+      "Génesis 7",
+      "2 Crónicas 5",
+      "Isaías 58",
+      "Efesios 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 8,
+    "passages": [
+      "Génesis 8",
+      "2 Crónicas 6",
+      "Isaías 59",
+      "Efesios 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 9,
+    "passages": [
+      "Génesis 9",
+      "2 Crónicas 7",
+      "Isaías 60",
+      "Filipenses 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 10,
+    "passages": [
+      "Génesis 10",
+      "2 Crónicas 8",
+      "Isaías 61",
+      "Filipenses 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 11,
+    "passages": [
+      "Génesis 11",
+      "2 Crónicas 9",
+      "Isaías 62",
+      "Filipenses 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 12,
+    "passages": [
+      "Génesis 12",
+      "2 Crónicas 10",
+      "Isaías 63",
+      "Filipenses 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 13,
+    "passages": [
+      "Génesis 13",
+      "2 Crónicas 11",
+      "Isaías 64",
+      "Colosenses 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 14,
+    "passages": [
+      "Génesis 14",
+      "2 Crónicas 12",
+      "Isaías 65",
+      "Colosenses 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 15,
+    "passages": [
+      "Génesis 15",
+      "2 Crónicas 13",
+      "Isaías 66",
+      "Colosenses 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 16,
+    "passages": [
+      "Génesis 16",
+      "2 Crónicas 14",
+      "Jeremías 1",
+      "Colosenses 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 17,
+    "passages": [
+      "Génesis 17",
+      "2 Crónicas 15",
+      "Jeremías 2",
+      "1 Tesalonicenses 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 18,
+    "passages": [
+      "Génesis 18",
+      "2 Crónicas 16",
+      "Jeremías 3",
+      "1 Tesalonicenses 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 19,
+    "passages": [
+      "Génesis 19",
+      "2 Crónicas 17",
+      "Jeremías 4",
+      "1 Tesalonicenses 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 20,
+    "passages": [
+      "Génesis 20",
+      "2 Crónicas 18",
+      "Jeremías 5",
+      "1 Tesalonicenses 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 21,
+    "passages": [
+      "Génesis 21",
+      "2 Crónicas 19",
+      "Jeremías 6",
+      "1 Tesalonicenses 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 22,
+    "passages": [
+      "Génesis 22",
+      "2 Crónicas 20",
+      "Jeremías 7",
+      "2 Tesalonicenses 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 23,
+    "passages": [
+      "Génesis 23",
+      "2 Crónicas 21",
+      "Jeremías 8",
+      "2 Tesalonicenses 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 24,
+    "passages": [
+      "Génesis 24",
+      "2 Crónicas 22",
+      "Jeremías 9",
+      "2 Tesalonicenses 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 25,
+    "passages": [
+      "Génesis 25",
+      "2 Crónicas 23",
+      "Jeremías 10",
+      "1 Timoteo 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 26,
+    "passages": [
+      "Génesis 26",
+      "2 Crónicas 24",
+      "Jeremías 11",
+      "1 Timoteo 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 27,
+    "passages": [
+      "Génesis 27",
+      "2 Crónicas 25",
+      "Jeremías 12",
+      "1 Timoteo 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 28,
+    "passages": [
+      "Génesis 28",
+      "2 Crónicas 26",
+      "Jeremías 13",
+      "1 Timoteo 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 29,
+    "passages": [
+      "Génesis 29",
+      "2 Crónicas 27",
+      "Jeremías 14",
+      "1 Timoteo 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 30,
+    "passages": [
+      "Génesis 30",
+      "2 Crónicas 28",
+      "Jeremías 15",
+      "1 Timoteo 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 31,
+    "passages": [
+      "Génesis 31",
+      "2 Crónicas 29",
+      "Jeremías 16",
+      "2 Timoteo 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 32,
+    "passages": [
+      "Génesis 32",
+      "2 Crónicas 30",
+      "Jeremías 17",
+      "2 Timoteo 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 33,
+    "passages": [
+      "Génesis 33",
+      "2 Crónicas 31",
+      "Jeremías 18",
+      "2 Timoteo 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 34,
+    "passages": [
+      "Génesis 34",
+      "2 Crónicas 32",
+      "Jeremías 19",
+      "2 Timoteo 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 35,
+    "passages": [
+      "Génesis 35",
+      "2 Crónicas 33",
+      "Jeremías 20",
+      "Tito 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 36,
+    "passages": [
+      "Génesis 36",
+      "2 Crónicas 34",
+      "Jeremías 21",
+      "Tito 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 37,
+    "passages": [
+      "Génesis 37",
+      "2 Crónicas 35",
+      "Jeremías 22",
+      "Tito 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 38,
+    "passages": [
+      "Génesis 38",
+      "2 Crónicas 36",
+      "Jeremías 23",
+      "Filemón 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 39,
+    "passages": [
+      "Génesis 39",
+      "Esdras 1",
+      "Jeremías 24",
+      "Hebreos 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 40,
+    "passages": [
+      "Génesis 40",
+      "Esdras 2",
+      "Jeremías 25",
+      "Hebreos 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 41,
+    "passages": [
+      "Génesis 41",
+      "Esdras 3",
+      "Jeremías 26",
+      "Hebreos 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 42,
+    "passages": [
+      "Génesis 42",
+      "Esdras 4",
+      "Jeremías 27",
+      "Hebreos 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 43,
+    "passages": [
+      "Génesis 43",
+      "Esdras 5",
+      "Jeremías 28",
+      "Hebreos 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 44,
+    "passages": [
+      "Génesis 44",
+      "Esdras 6",
+      "Jeremías 29",
+      "Hebreos 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 45,
+    "passages": [
+      "Génesis 45",
+      "Esdras 7",
+      "Jeremías 30",
+      "Hebreos 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 46,
+    "passages": [
+      "Génesis 46",
+      "Esdras 8",
+      "Jeremías 31",
+      "Hebreos 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 47,
+    "passages": [
+      "Génesis 47",
+      "Esdras 9",
+      "Jeremías 32",
+      "Hebreos 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 48,
+    "passages": [
+      "Génesis 48",
+      "Esdras 10",
+      "Jeremías 33",
+      "Hebreos 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 49,
+    "passages": [
+      "Génesis 49",
+      "Nehemías 1",
+      "Jeremías 34",
+      "Hebreos 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 50,
+    "passages": [
+      "Génesis 50",
+      "Nehemías 2",
+      "Jeremías 35",
+      "Hebreos 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 51,
+    "passages": [
+      "Éxodo 1",
+      "Nehemías 3",
+      "Jeremías 36",
+      "Hebreos 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 52,
+    "passages": [
+      "Éxodo 2",
+      "Nehemías 4",
+      "Jeremías 37",
+      "Santiago 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 53,
+    "passages": [
+      "Éxodo 3",
+      "Nehemías 5",
+      "Jeremías 38",
+      "Santiago 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 54,
+    "passages": [
+      "Éxodo 4",
+      "Nehemías 6",
+      "Jeremías 39",
+      "Santiago 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 55,
+    "passages": [
+      "Éxodo 5",
+      "Nehemías 7",
+      "Jeremías 40",
+      "Santiago 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 56,
+    "passages": [
+      "Éxodo 6",
+      "Nehemías 8",
+      "Jeremías 41",
+      "Santiago 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 57,
+    "passages": [
+      "Éxodo 7",
+      "Nehemías 9",
+      "Jeremías 42",
+      "1 Pedro 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 58,
+    "passages": [
+      "Éxodo 8",
+      "Nehemías 10",
+      "Jeremías 43",
+      "1 Pedro 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 59,
+    "passages": [
+      "Éxodo 9",
+      "Nehemías 11",
+      "Jeremías 44",
+      "1 Pedro 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 60,
+    "passages": [
+      "Éxodo 10",
+      "Nehemías 12",
+      "Jeremías 45",
+      "1 Pedro 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 61,
+    "passages": [
+      "Éxodo 11",
+      "Nehemías 13",
+      "Jeremías 46",
+      "1 Pedro 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 62,
+    "passages": [
+      "Éxodo 12",
+      "Ester 1",
+      "Jeremías 47",
+      "2 Pedro 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 63,
+    "passages": [
+      "Éxodo 13",
+      "Ester 2",
+      "Jeremías 48",
+      "2 Pedro 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 64,
+    "passages": [
+      "Éxodo 14",
+      "Ester 3",
+      "Jeremías 49",
+      "2 Pedro 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 65,
+    "passages": [
+      "Éxodo 15",
+      "Ester 4",
+      "Jeremías 50",
+      "1 Juan 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 66,
+    "passages": [
+      "Éxodo 16",
+      "Ester 5",
+      "Jeremías 51",
+      "1 Juan 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 67,
+    "passages": [
+      "Éxodo 17",
+      "Ester 6",
+      "Jeremías 52",
+      "1 Juan 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 68,
+    "passages": [
+      "Éxodo 18",
+      "Ester 7",
+      "Lamentaciones 1",
+      "1 Juan 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 69,
+    "passages": [
+      "Éxodo 19",
+      "Ester 8",
+      "Lamentaciones 2",
+      "1 Juan 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 70,
+    "passages": [
+      "Éxodo 20",
+      "Ester 9",
+      "Lamentaciones 3",
+      "2 Juan 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 71,
+    "passages": [
+      "Éxodo 21",
+      "Ester 10",
+      "Lamentaciones 4",
+      "3 Juan 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 72,
+    "passages": [
+      "Éxodo 22",
+      "Job 1",
+      "Lamentaciones 5",
+      "Judas 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 73,
+    "passages": [
+      "Éxodo 23",
+      "Job 2",
+      "Ezequiel 1",
+      "Apocalipsis 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 74,
+    "passages": [
+      "Éxodo 24",
+      "Job 3",
+      "Ezequiel 2",
+      "Apocalipsis 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 75,
+    "passages": [
+      "Éxodo 25",
+      "Job 4",
+      "Ezequiel 3",
+      "Apocalipsis 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 76,
+    "passages": [
+      "Éxodo 26",
+      "Job 5",
+      "Ezequiel 4",
+      "Apocalipsis 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 77,
+    "passages": [
+      "Éxodo 27",
+      "Job 6",
+      "Ezequiel 5",
+      "Apocalipsis 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 78,
+    "passages": [
+      "Éxodo 28",
+      "Job 7",
+      "Ezequiel 6",
+      "Apocalipsis 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 79,
+    "passages": [
+      "Éxodo 29",
+      "Job 8",
+      "Ezequiel 7",
+      "Apocalipsis 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 80,
+    "passages": [
+      "Éxodo 30",
+      "Job 9",
+      "Ezequiel 8",
+      "Apocalipsis 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 81,
+    "passages": [
+      "Éxodo 31",
+      "Job 10",
+      "Ezequiel 9",
+      "Apocalipsis 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 82,
+    "passages": [
+      "Éxodo 32",
+      "Job 11",
+      "Ezequiel 10",
+      "Apocalipsis 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 83,
+    "passages": [
+      "Éxodo 33",
+      "Job 12",
+      "Ezequiel 11",
+      "Apocalipsis 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 84,
+    "passages": [
+      "Éxodo 34",
+      "Job 13",
+      "Ezequiel 12",
+      "Apocalipsis 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 85,
+    "passages": [
+      "Éxodo 35",
+      "Job 14",
+      "Ezequiel 13",
+      "Apocalipsis 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 86,
+    "passages": [
+      "Éxodo 36",
+      "Job 15",
+      "Ezequiel 14",
+      "Apocalipsis 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 87,
+    "passages": [
+      "Éxodo 37",
+      "Job 16",
+      "Ezequiel 15",
+      "Apocalipsis 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 88,
+    "passages": [
+      "Éxodo 38",
+      "Job 17",
+      "Ezequiel 16",
+      "Apocalipsis 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 89,
+    "passages": [
+      "Éxodo 39",
+      "Job 18",
+      "Ezequiel 17",
+      "Apocalipsis 17"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 90,
+    "passages": [
+      "Éxodo 40",
+      "Job 19",
+      "Ezequiel 18",
+      "Apocalipsis 18"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 91,
+    "passages": [
+      "Levítico 1",
+      "Job 20",
+      "Ezequiel 19",
+      "Apocalipsis 19"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 92,
+    "passages": [
+      "Levítico 2",
+      "Job 21",
+      "Ezequiel 20",
+      "Apocalipsis 20"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 93,
+    "passages": [
+      "Levítico 3",
+      "Job 22",
+      "Ezequiel 21",
+      "Apocalipsis 21"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 94,
+    "passages": [
+      "Levítico 4",
+      "Job 23",
+      "Ezequiel 22",
+      "Apocalipsis 22"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 95,
+    "passages": [
+      "Levítico 5",
+      "Job 24",
+      "Ezequiel 23"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 96,
+    "passages": [
+      "Levítico 6",
+      "Job 25",
+      "Ezequiel 24"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 97,
+    "passages": [
+      "Levítico 7",
+      "Job 26",
+      "Ezequiel 25"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 98,
+    "passages": [
+      "Levítico 8",
+      "Job 27",
+      "Ezequiel 26"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 99,
+    "passages": [
+      "Levítico 9",
+      "Job 28",
+      "Ezequiel 27"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 100,
+    "passages": [
+      "Levítico 10",
+      "Job 29",
+      "Ezequiel 28"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 101,
+    "passages": [
+      "Levítico 11",
+      "Job 30",
+      "Ezequiel 29"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 102,
+    "passages": [
+      "Levítico 12",
+      "Job 31",
+      "Ezequiel 30"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 103,
+    "passages": [
+      "Levítico 13",
+      "Job 32",
+      "Ezequiel 31"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 104,
+    "passages": [
+      "Levítico 14",
+      "Job 33",
+      "Ezequiel 32"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 105,
+    "passages": [
+      "Levítico 15",
+      "Job 34",
+      "Ezequiel 33"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 106,
+    "passages": [
+      "Levítico 16",
+      "Job 35",
+      "Ezequiel 34"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 107,
+    "passages": [
+      "Levítico 17",
+      "Job 36",
+      "Ezequiel 35"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 108,
+    "passages": [
+      "Levítico 18",
+      "Job 37",
+      "Ezequiel 36"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 109,
+    "passages": [
+      "Levítico 19",
+      "Job 38",
+      "Ezequiel 37"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 110,
+    "passages": [
+      "Levítico 20",
+      "Job 39",
+      "Ezequiel 38"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 111,
+    "passages": [
+      "Levítico 21",
+      "Job 40",
+      "Ezequiel 39"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 112,
+    "passages": [
+      "Levítico 22",
+      "Job 41",
+      "Ezequiel 40"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 113,
+    "passages": [
+      "Levítico 23",
+      "Job 42",
+      "Ezequiel 41"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 114,
+    "passages": [
+      "Levítico 24",
+      "Salmos 1",
+      "Ezequiel 42"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 115,
+    "passages": [
+      "Levítico 25",
+      "Salmos 2",
+      "Ezequiel 43"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 116,
+    "passages": [
+      "Levítico 26",
+      "Salmos 3",
+      "Ezequiel 44"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 117,
+    "passages": [
+      "Levítico 27",
+      "Salmos 4",
+      "Ezequiel 45"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 118,
+    "passages": [
+      "Números 1",
+      "Salmos 5",
+      "Ezequiel 46"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 119,
+    "passages": [
+      "Números 2",
+      "Salmos 6",
+      "Ezequiel 47"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 120,
+    "passages": [
+      "Números 3",
+      "Salmos 7",
+      "Ezequiel 48"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 121,
+    "passages": [
+      "Números 4",
+      "Salmos 8",
+      "Daniel 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 122,
+    "passages": [
+      "Números 5",
+      "Salmos 9",
+      "Daniel 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 123,
+    "passages": [
+      "Números 6",
+      "Salmos 10",
+      "Daniel 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 124,
+    "passages": [
+      "Números 7",
+      "Salmos 11",
+      "Daniel 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 125,
+    "passages": [
+      "Números 8",
+      "Salmos 12",
+      "Daniel 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 126,
+    "passages": [
+      "Números 9",
+      "Salmos 13",
+      "Daniel 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 127,
+    "passages": [
+      "Números 10",
+      "Salmos 14",
+      "Daniel 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 128,
+    "passages": [
+      "Números 11",
+      "Salmos 15",
+      "Daniel 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 129,
+    "passages": [
+      "Números 12",
+      "Salmos 16",
+      "Daniel 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 130,
+    "passages": [
+      "Números 13",
+      "Salmos 17",
+      "Daniel 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 131,
+    "passages": [
+      "Números 14",
+      "Salmos 18",
+      "Daniel 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 132,
+    "passages": [
+      "Números 15",
+      "Salmos 19",
+      "Daniel 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 133,
+    "passages": [
+      "Números 16",
+      "Salmos 20",
+      "Oseas 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 134,
+    "passages": [
+      "Números 17",
+      "Salmos 21",
+      "Oseas 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 135,
+    "passages": [
+      "Números 18",
+      "Salmos 22",
+      "Oseas 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 136,
+    "passages": [
+      "Números 19",
+      "Salmos 23",
+      "Oseas 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 137,
+    "passages": [
+      "Números 20",
+      "Salmos 24",
+      "Oseas 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 138,
+    "passages": [
+      "Números 21",
+      "Salmos 25",
+      "Oseas 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 139,
+    "passages": [
+      "Números 22",
+      "Salmos 26",
+      "Oseas 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 140,
+    "passages": [
+      "Números 23",
+      "Salmos 27",
+      "Oseas 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 141,
+    "passages": [
+      "Números 24",
+      "Salmos 28",
+      "Oseas 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 142,
+    "passages": [
+      "Números 25",
+      "Salmos 29",
+      "Oseas 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 143,
+    "passages": [
+      "Números 26",
+      "Salmos 30",
+      "Oseas 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 144,
+    "passages": [
+      "Números 27",
+      "Salmos 31",
+      "Oseas 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 145,
+    "passages": [
+      "Números 28",
+      "Salmos 32",
+      "Oseas 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 146,
+    "passages": [
+      "Números 29",
+      "Salmos 33",
+      "Oseas 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 147,
+    "passages": [
+      "Números 30",
+      "Salmos 34",
+      "Joel 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 148,
+    "passages": [
+      "Números 31",
+      "Salmos 35",
+      "Joel 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 149,
+    "passages": [
+      "Números 32",
+      "Salmos 36",
+      "Joel 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 150,
+    "passages": [
+      "Números 33",
+      "Salmos 37",
+      "Amós 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 151,
+    "passages": [
+      "Números 34",
+      "Salmos 38",
+      "Amós 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 152,
+    "passages": [
+      "Números 35",
+      "Salmos 39",
+      "Amós 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 153,
+    "passages": [
+      "Números 36",
+      "Salmos 40",
+      "Amós 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 154,
+    "passages": [
+      "Deuteronomio 1",
+      "Salmos 41",
+      "Amós 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 155,
+    "passages": [
+      "Deuteronomio 2",
+      "Salmos 42",
+      "Amós 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 156,
+    "passages": [
+      "Deuteronomio 3",
+      "Salmos 43",
+      "Amós 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 157,
+    "passages": [
+      "Deuteronomio 4",
+      "Salmos 44",
+      "Amós 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 158,
+    "passages": [
+      "Deuteronomio 5",
+      "Salmos 45",
+      "Amós 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 159,
+    "passages": [
+      "Deuteronomio 6",
+      "Salmos 46",
+      "Abdías 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 160,
+    "passages": [
+      "Deuteronomio 7",
+      "Salmos 47",
+      "Jonás 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 161,
+    "passages": [
+      "Deuteronomio 8",
+      "Salmos 48",
+      "Jonás 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 162,
+    "passages": [
+      "Deuteronomio 9",
+      "Salmos 49",
+      "Jonás 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 163,
+    "passages": [
+      "Deuteronomio 10",
+      "Salmos 50",
+      "Jonás 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 164,
+    "passages": [
+      "Deuteronomio 11",
+      "Salmos 51",
+      "Miqueas 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 165,
+    "passages": [
+      "Deuteronomio 12",
+      "Salmos 52",
+      "Miqueas 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 166,
+    "passages": [
+      "Deuteronomio 13",
+      "Salmos 53",
+      "Miqueas 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 167,
+    "passages": [
+      "Deuteronomio 14",
+      "Salmos 54",
+      "Miqueas 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 168,
+    "passages": [
+      "Deuteronomio 15",
+      "Salmos 55",
+      "Miqueas 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 169,
+    "passages": [
+      "Deuteronomio 16",
+      "Salmos 56",
+      "Miqueas 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 170,
+    "passages": [
+      "Deuteronomio 17",
+      "Salmos 57",
+      "Miqueas 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 171,
+    "passages": [
+      "Deuteronomio 18",
+      "Salmos 58",
+      "Nahum 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 172,
+    "passages": [
+      "Deuteronomio 19",
+      "Salmos 59",
+      "Nahum 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 173,
+    "passages": [
+      "Deuteronomio 20",
+      "Salmos 60",
+      "Nahum 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 174,
+    "passages": [
+      "Deuteronomio 21",
+      "Salmos 61",
+      "Habacuc 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 175,
+    "passages": [
+      "Deuteronomio 22",
+      "Salmos 62",
+      "Habacuc 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 176,
+    "passages": [
+      "Deuteronomio 23",
+      "Salmos 63",
+      "Habacuc 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 177,
+    "passages": [
+      "Deuteronomio 24",
+      "Salmos 64",
+      "Sofonías 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 178,
+    "passages": [
+      "Deuteronomio 25",
+      "Salmos 65",
+      "Sofonías 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 179,
+    "passages": [
+      "Deuteronomio 26",
+      "Salmos 66",
+      "Sofonías 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 180,
+    "passages": [
+      "Deuteronomio 27",
+      "Salmos 67",
+      "Hageo 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 181,
+    "passages": [
+      "Deuteronomio 28",
+      "Salmos 68",
+      "Hageo 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 182,
+    "passages": [
+      "Deuteronomio 29",
+      "Salmos 69",
+      "Zacarías 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 183,
+    "passages": [
+      "Deuteronomio 30",
+      "Salmos 70",
+      "Zacarías 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 184,
+    "passages": [
+      "Deuteronomio 31",
+      "Salmos 71",
+      "Zacarías 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 185,
+    "passages": [
+      "Deuteronomio 32",
+      "Salmos 72",
+      "Zacarías 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 186,
+    "passages": [
+      "Deuteronomio 33",
+      "Salmos 73",
+      "Zacarías 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 187,
+    "passages": [
+      "Deuteronomio 34",
+      "Salmos 74",
+      "Zacarías 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 188,
+    "passages": [
+      "Josué 1",
+      "Salmos 75",
+      "Zacarías 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 189,
+    "passages": [
+      "Josué 2",
+      "Salmos 76",
+      "Zacarías 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 190,
+    "passages": [
+      "Josué 3",
+      "Salmos 77",
+      "Zacarías 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 191,
+    "passages": [
+      "Josué 4",
+      "Salmos 78",
+      "Zacarías 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 192,
+    "passages": [
+      "Josué 5",
+      "Salmos 79",
+      "Zacarías 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 193,
+    "passages": [
+      "Josué 6",
+      "Salmos 80",
+      "Zacarías 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 194,
+    "passages": [
+      "Josué 7",
+      "Salmos 81",
+      "Zacarías 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 195,
+    "passages": [
+      "Josué 8",
+      "Salmos 82",
+      "Zacarías 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 196,
+    "passages": [
+      "Josué 9",
+      "Salmos 83",
+      "Malaquías 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 197,
+    "passages": [
+      "Josué 10",
+      "Salmos 84",
+      "Malaquías 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 198,
+    "passages": [
+      "Josué 11",
+      "Salmos 85",
+      "Malaquías 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 199,
+    "passages": [
+      "Josué 12",
+      "Salmos 86",
+      "Malaquías 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 200,
+    "passages": [
+      "Josué 13",
+      "Salmos 87",
+      "Mateo 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 201,
+    "passages": [
+      "Josué 14",
+      "Salmos 88",
+      "Mateo 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 202,
+    "passages": [
+      "Josué 15",
+      "Salmos 89",
+      "Mateo 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 203,
+    "passages": [
+      "Josué 16",
+      "Salmos 90",
+      "Mateo 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 204,
+    "passages": [
+      "Josué 17",
+      "Salmos 91",
+      "Mateo 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 205,
+    "passages": [
+      "Josué 18",
+      "Salmos 92",
+      "Mateo 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 206,
+    "passages": [
+      "Josué 19",
+      "Salmos 93",
+      "Mateo 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 207,
+    "passages": [
+      "Josué 20",
+      "Salmos 94",
+      "Mateo 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 208,
+    "passages": [
+      "Josué 21",
+      "Salmos 95",
+      "Mateo 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 209,
+    "passages": [
+      "Josué 22",
+      "Salmos 96",
+      "Mateo 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 210,
+    "passages": [
+      "Josué 23",
+      "Salmos 97",
+      "Mateo 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 211,
+    "passages": [
+      "Josué 24",
+      "Salmos 98",
+      "Mateo 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 212,
+    "passages": [
+      "Jueces 1",
+      "Salmos 99",
+      "Mateo 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 213,
+    "passages": [
+      "Jueces 2",
+      "Salmos 100",
+      "Mateo 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 214,
+    "passages": [
+      "Jueces 3",
+      "Salmos 101",
+      "Mateo 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 215,
+    "passages": [
+      "Jueces 4",
+      "Salmos 102",
+      "Mateo 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 216,
+    "passages": [
+      "Jueces 5",
+      "Salmos 103",
+      "Mateo 17"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 217,
+    "passages": [
+      "Jueces 6",
+      "Salmos 104",
+      "Mateo 18"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 218,
+    "passages": [
+      "Jueces 7",
+      "Salmos 105",
+      "Mateo 19"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 219,
+    "passages": [
+      "Jueces 8",
+      "Salmos 106",
+      "Mateo 20"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 220,
+    "passages": [
+      "Jueces 9",
+      "Salmos 107",
+      "Mateo 21"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 221,
+    "passages": [
+      "Jueces 10",
+      "Salmos 108",
+      "Mateo 22"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 222,
+    "passages": [
+      "Jueces 11",
+      "Salmos 109",
+      "Mateo 23"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 223,
+    "passages": [
+      "Jueces 12",
+      "Salmos 110",
+      "Mateo 24"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 224,
+    "passages": [
+      "Jueces 13",
+      "Salmos 111",
+      "Mateo 25"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 225,
+    "passages": [
+      "Jueces 14",
+      "Salmos 112",
+      "Mateo 26"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 226,
+    "passages": [
+      "Jueces 15",
+      "Salmos 113",
+      "Mateo 27"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 227,
+    "passages": [
+      "Jueces 16",
+      "Salmos 114",
+      "Mateo 28"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 228,
+    "passages": [
+      "Jueces 17",
+      "Salmos 115",
+      "Marcos 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 229,
+    "passages": [
+      "Jueces 18",
+      "Salmos 116",
+      "Marcos 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 230,
+    "passages": [
+      "Jueces 19",
+      "Salmos 117",
+      "Marcos 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 231,
+    "passages": [
+      "Jueces 20",
+      "Salmos 118",
+      "Marcos 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 232,
+    "passages": [
+      "Jueces 21",
+      "Salmos 119",
+      "Marcos 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 233,
+    "passages": [
+      "Rut 1",
+      "Salmos 120",
+      "Marcos 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 234,
+    "passages": [
+      "Rut 2",
+      "Salmos 121",
+      "Marcos 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 235,
+    "passages": [
+      "Rut 3",
+      "Salmos 122",
+      "Marcos 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 236,
+    "passages": [
+      "Rut 4",
+      "Salmos 123",
+      "Marcos 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 237,
+    "passages": [
+      "1 Samuel 1",
+      "Salmos 124",
+      "Marcos 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 238,
+    "passages": [
+      "1 Samuel 2",
+      "Salmos 125",
+      "Marcos 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 239,
+    "passages": [
+      "1 Samuel 3",
+      "Salmos 126",
+      "Marcos 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 240,
+    "passages": [
+      "1 Samuel 4",
+      "Salmos 127",
+      "Marcos 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 241,
+    "passages": [
+      "1 Samuel 5",
+      "Salmos 128",
+      "Marcos 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 242,
+    "passages": [
+      "1 Samuel 6",
+      "Salmos 129",
+      "Marcos 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 243,
+    "passages": [
+      "1 Samuel 7",
+      "Salmos 130",
+      "Marcos 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 244,
+    "passages": [
+      "1 Samuel 8",
+      "Salmos 131",
+      "Lucas 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 245,
+    "passages": [
+      "1 Samuel 9",
+      "Salmos 132",
+      "Lucas 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 246,
+    "passages": [
+      "1 Samuel 10",
+      "Salmos 133",
+      "Lucas 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 247,
+    "passages": [
+      "1 Samuel 11",
+      "Salmos 134",
+      "Lucas 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 248,
+    "passages": [
+      "1 Samuel 12",
+      "Salmos 135",
+      "Lucas 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 249,
+    "passages": [
+      "1 Samuel 13",
+      "Salmos 136",
+      "Lucas 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 250,
+    "passages": [
+      "1 Samuel 14",
+      "Salmos 137",
+      "Lucas 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 251,
+    "passages": [
+      "1 Samuel 15",
+      "Salmos 138",
+      "Lucas 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 252,
+    "passages": [
+      "1 Samuel 16",
+      "Salmos 139",
+      "Lucas 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 253,
+    "passages": [
+      "1 Samuel 17",
+      "Salmos 140",
+      "Lucas 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 254,
+    "passages": [
+      "1 Samuel 18",
+      "Salmos 141",
+      "Lucas 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 255,
+    "passages": [
+      "1 Samuel 19",
+      "Salmos 142",
+      "Lucas 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 256,
+    "passages": [
+      "1 Samuel 20",
+      "Salmos 143",
+      "Lucas 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 257,
+    "passages": [
+      "1 Samuel 21",
+      "Salmos 144",
+      "Lucas 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 258,
+    "passages": [
+      "1 Samuel 22",
+      "Salmos 145",
+      "Lucas 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 259,
+    "passages": [
+      "1 Samuel 23",
+      "Salmos 146",
+      "Lucas 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 260,
+    "passages": [
+      "1 Samuel 24",
+      "Salmos 147",
+      "Lucas 17"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 261,
+    "passages": [
+      "1 Samuel 25",
+      "Salmos 148",
+      "Lucas 18"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 262,
+    "passages": [
+      "1 Samuel 26",
+      "Salmos 149",
+      "Lucas 19"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 263,
+    "passages": [
+      "1 Samuel 27",
+      "Salmos 150",
+      "Lucas 20"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 264,
+    "passages": [
+      "1 Samuel 28",
+      "Proverbios 1",
+      "Lucas 21"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 265,
+    "passages": [
+      "1 Samuel 29",
+      "Proverbios 2",
+      "Lucas 22"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 266,
+    "passages": [
+      "1 Samuel 30",
+      "Proverbios 3",
+      "Lucas 23"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 267,
+    "passages": [
+      "1 Samuel 31",
+      "Proverbios 4",
+      "Lucas 24"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 268,
+    "passages": [
+      "2 Samuel 1",
+      "Proverbios 5",
+      "Juan 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 269,
+    "passages": [
+      "2 Samuel 2",
+      "Proverbios 6",
+      "Juan 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 270,
+    "passages": [
+      "2 Samuel 3",
+      "Proverbios 7",
+      "Juan 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 271,
+    "passages": [
+      "2 Samuel 4",
+      "Proverbios 8",
+      "Juan 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 272,
+    "passages": [
+      "2 Samuel 5",
+      "Proverbios 9",
+      "Juan 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 273,
+    "passages": [
+      "2 Samuel 6",
+      "Proverbios 10",
+      "Juan 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 274,
+    "passages": [
+      "2 Samuel 7",
+      "Proverbios 11",
+      "Juan 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 275,
+    "passages": [
+      "2 Samuel 8",
+      "Proverbios 12",
+      "Juan 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 276,
+    "passages": [
+      "2 Samuel 9",
+      "Proverbios 13",
+      "Juan 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 277,
+    "passages": [
+      "2 Samuel 10",
+      "Proverbios 14",
+      "Juan 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 278,
+    "passages": [
+      "2 Samuel 11",
+      "Proverbios 15",
+      "Juan 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 279,
+    "passages": [
+      "2 Samuel 12",
+      "Proverbios 16",
+      "Juan 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 280,
+    "passages": [
+      "2 Samuel 13",
+      "Proverbios 17",
+      "Juan 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 281,
+    "passages": [
+      "2 Samuel 14",
+      "Proverbios 18",
+      "Juan 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 282,
+    "passages": [
+      "2 Samuel 15",
+      "Proverbios 19",
+      "Juan 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 283,
+    "passages": [
+      "2 Samuel 16",
+      "Proverbios 20",
+      "Juan 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 284,
+    "passages": [
+      "2 Samuel 17",
+      "Proverbios 21",
+      "Juan 17"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 285,
+    "passages": [
+      "2 Samuel 18",
+      "Proverbios 22",
+      "Juan 18"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 286,
+    "passages": [
+      "2 Samuel 19",
+      "Proverbios 23",
+      "Juan 19"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 287,
+    "passages": [
+      "2 Samuel 20",
+      "Proverbios 24",
+      "Juan 20"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 288,
+    "passages": [
+      "2 Samuel 21",
+      "Proverbios 25",
+      "Juan 21"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 289,
+    "passages": [
+      "2 Samuel 22",
+      "Proverbios 26",
+      "Hechos 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 290,
+    "passages": [
+      "2 Samuel 23",
+      "Proverbios 27",
+      "Hechos 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 291,
+    "passages": [
+      "2 Samuel 24",
+      "Proverbios 28",
+      "Hechos 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 292,
+    "passages": [
+      "1 Reyes 1",
+      "Proverbios 29",
+      "Hechos 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 293,
+    "passages": [
+      "1 Reyes 2",
+      "Proverbios 30",
+      "Hechos 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 294,
+    "passages": [
+      "1 Reyes 3",
+      "Proverbios 31",
+      "Hechos 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 295,
+    "passages": [
+      "1 Reyes 4",
+      "Eclesiastés 1",
+      "Hechos 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 296,
+    "passages": [
+      "1 Reyes 5",
+      "Eclesiastés 2",
+      "Hechos 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 297,
+    "passages": [
+      "1 Reyes 6",
+      "Eclesiastés 3",
+      "Hechos 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 298,
+    "passages": [
+      "1 Reyes 7",
+      "Eclesiastés 4",
+      "Hechos 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 299,
+    "passages": [
+      "1 Reyes 8",
+      "Eclesiastés 5",
+      "Hechos 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 300,
+    "passages": [
+      "1 Reyes 9",
+      "Eclesiastés 6",
+      "Hechos 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 301,
+    "passages": [
+      "1 Reyes 10",
+      "Eclesiastés 7",
+      "Hechos 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 302,
+    "passages": [
+      "1 Reyes 11",
+      "Eclesiastés 8",
+      "Hechos 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 303,
+    "passages": [
+      "1 Reyes 12",
+      "Eclesiastés 9",
+      "Hechos 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 304,
+    "passages": [
+      "1 Reyes 13",
+      "Eclesiastés 10",
+      "Hechos 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 305,
+    "passages": [
+      "1 Reyes 14",
+      "Eclesiastés 11",
+      "Hechos 17"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 306,
+    "passages": [
+      "1 Reyes 15",
+      "Eclesiastés 12",
+      "Hechos 18"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 307,
+    "passages": [
+      "1 Reyes 16",
+      "Cantares 1",
+      "Hechos 19"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 308,
+    "passages": [
+      "1 Reyes 17",
+      "Cantares 2",
+      "Hechos 20"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 309,
+    "passages": [
+      "1 Reyes 18",
+      "Cantares 3",
+      "Hechos 21"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 310,
+    "passages": [
+      "1 Reyes 19",
+      "Cantares 4",
+      "Hechos 22"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 311,
+    "passages": [
+      "1 Reyes 20",
+      "Cantares 5",
+      "Hechos 23"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 312,
+    "passages": [
+      "1 Reyes 21",
+      "Cantares 6",
+      "Hechos 24"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 313,
+    "passages": [
+      "1 Reyes 22",
+      "Cantares 7",
+      "Hechos 25"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 314,
+    "passages": [
+      "2 Reyes 1",
+      "Cantares 8",
+      "Hechos 26"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 315,
+    "passages": [
+      "2 Reyes 2",
+      "Isaías 1",
+      "Hechos 27"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 316,
+    "passages": [
+      "2 Reyes 3",
+      "Isaías 2",
+      "Hechos 28"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 317,
+    "passages": [
+      "2 Reyes 4",
+      "Isaías 3",
+      "Romanos 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 318,
+    "passages": [
+      "2 Reyes 5",
+      "Isaías 4",
+      "Romanos 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 319,
+    "passages": [
+      "2 Reyes 6",
+      "Isaías 5",
+      "Romanos 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 320,
+    "passages": [
+      "2 Reyes 7",
+      "Isaías 6",
+      "Romanos 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 321,
+    "passages": [
+      "2 Reyes 8",
+      "Isaías 7",
+      "Romanos 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 322,
+    "passages": [
+      "2 Reyes 9",
+      "Isaías 8",
+      "Romanos 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 323,
+    "passages": [
+      "2 Reyes 10",
+      "Isaías 9",
+      "Romanos 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 324,
+    "passages": [
+      "2 Reyes 11",
+      "Isaías 10",
+      "Romanos 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 325,
+    "passages": [
+      "2 Reyes 12",
+      "Isaías 11",
+      "Romanos 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 326,
+    "passages": [
+      "2 Reyes 13",
+      "Isaías 12",
+      "Romanos 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 327,
+    "passages": [
+      "2 Reyes 14",
+      "Isaías 13",
+      "Romanos 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 328,
+    "passages": [
+      "2 Reyes 15",
+      "Isaías 14",
+      "Romanos 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 329,
+    "passages": [
+      "2 Reyes 16",
+      "Isaías 15",
+      "Romanos 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 330,
+    "passages": [
+      "2 Reyes 17",
+      "Isaías 16",
+      "Romanos 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 331,
+    "passages": [
+      "2 Reyes 18",
+      "Isaías 17",
+      "Romanos 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 332,
+    "passages": [
+      "2 Reyes 19",
+      "Isaías 18",
+      "Romanos 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 333,
+    "passages": [
+      "2 Reyes 20",
+      "Isaías 19",
+      "1 Corintios 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 334,
+    "passages": [
+      "2 Reyes 21",
+      "Isaías 20",
+      "1 Corintios 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 335,
+    "passages": [
+      "2 Reyes 22",
+      "Isaías 21",
+      "1 Corintios 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 336,
+    "passages": [
+      "2 Reyes 23",
+      "Isaías 22",
+      "1 Corintios 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 337,
+    "passages": [
+      "2 Reyes 24",
+      "Isaías 23",
+      "1 Corintios 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 338,
+    "passages": [
+      "2 Reyes 25",
+      "Isaías 24",
+      "1 Corintios 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 339,
+    "passages": [
+      "1 Crónicas 1",
+      "Isaías 25",
+      "1 Corintios 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 340,
+    "passages": [
+      "1 Crónicas 2",
+      "Isaías 26",
+      "1 Corintios 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 341,
+    "passages": [
+      "1 Crónicas 3",
+      "Isaías 27",
+      "1 Corintios 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 342,
+    "passages": [
+      "1 Crónicas 4",
+      "Isaías 28",
+      "1 Corintios 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 343,
+    "passages": [
+      "1 Crónicas 5",
+      "Isaías 29",
+      "1 Corintios 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 344,
+    "passages": [
+      "1 Crónicas 6",
+      "Isaías 30",
+      "1 Corintios 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 345,
+    "passages": [
+      "1 Crónicas 7",
+      "Isaías 31",
+      "1 Corintios 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 346,
+    "passages": [
+      "1 Crónicas 8",
+      "Isaías 32",
+      "1 Corintios 14"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 347,
+    "passages": [
+      "1 Crónicas 9",
+      "Isaías 33",
+      "1 Corintios 15"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 348,
+    "passages": [
+      "1 Crónicas 10",
+      "Isaías 34",
+      "1 Corintios 16"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 349,
+    "passages": [
+      "1 Crónicas 11",
+      "Isaías 35",
+      "2 Corintios 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 350,
+    "passages": [
+      "1 Crónicas 12",
+      "Isaías 36",
+      "2 Corintios 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 351,
+    "passages": [
+      "1 Crónicas 13",
+      "Isaías 37",
+      "2 Corintios 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 352,
+    "passages": [
+      "1 Crónicas 14",
+      "Isaías 38",
+      "2 Corintios 4"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 353,
+    "passages": [
+      "1 Crónicas 15",
+      "Isaías 39",
+      "2 Corintios 5"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 354,
+    "passages": [
+      "1 Crónicas 16",
+      "Isaías 40",
+      "2 Corintios 6"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 355,
+    "passages": [
+      "1 Crónicas 17",
+      "Isaías 41",
+      "2 Corintios 7"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 356,
+    "passages": [
+      "1 Crónicas 18",
+      "Isaías 42",
+      "2 Corintios 8"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 357,
+    "passages": [
+      "1 Crónicas 19",
+      "Isaías 43",
+      "2 Corintios 9"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 358,
+    "passages": [
+      "1 Crónicas 20",
+      "Isaías 44",
+      "2 Corintios 10"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 359,
+    "passages": [
+      "1 Crónicas 21",
+      "Isaías 45",
+      "2 Corintios 11"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 360,
+    "passages": [
+      "1 Crónicas 22",
+      "Isaías 46",
+      "2 Corintios 12"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 361,
+    "passages": [
+      "1 Crónicas 23",
+      "Isaías 47",
+      "2 Corintios 13"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 362,
+    "passages": [
+      "1 Crónicas 24",
+      "Isaías 48",
+      "Gálatas 1"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 363,
+    "passages": [
+      "1 Crónicas 25",
+      "Isaías 49",
+      "Gálatas 2"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 364,
+    "passages": [
+      "1 Crónicas 26",
+      "Isaías 50",
+      "Gálatas 3"
+    ]
+  },
+  {
+    "planId": "year",
+    "day": 365,
+    "passages": [
+      "1 Crónicas 27",
+      "Isaías 51",
+      "Gálatas 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 1,
+    "passages": [
+      "Génesis 1",
+      "Salmos 33",
+      "Jeremías 19",
+      "Gálatas 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 2,
+    "passages": [
+      "Génesis 2",
+      "Salmos 34",
+      "Jeremías 20",
+      "Gálatas 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 3,
+    "passages": [
+      "Génesis 3",
+      "Salmos 35",
+      "Jeremías 21",
+      "Efesios 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 4,
+    "passages": [
+      "Génesis 4",
+      "Salmos 36",
+      "Jeremías 22",
+      "Efesios 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 5,
+    "passages": [
+      "Génesis 5",
+      "Salmos 37",
+      "Jeremías 23",
+      "Efesios 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 6,
+    "passages": [
+      "Génesis 6",
+      "Salmos 38",
+      "Jeremías 24",
+      "Efesios 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 7,
+    "passages": [
+      "Génesis 7",
+      "Salmos 39",
+      "Jeremías 25",
+      "Efesios 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 8,
+    "passages": [
+      "Génesis 8",
+      "Salmos 40",
+      "Jeremías 26",
+      "Efesios 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 9,
+    "passages": [
+      "Génesis 9",
+      "Salmos 41",
+      "Jeremías 27",
+      "Filipenses 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 10,
+    "passages": [
+      "Génesis 10",
+      "Salmos 42",
+      "Jeremías 28",
+      "Filipenses 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 11,
+    "passages": [
+      "Génesis 11",
+      "Salmos 43",
+      "Jeremías 29",
+      "Filipenses 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 12,
+    "passages": [
+      "Génesis 12",
+      "Salmos 44",
+      "Jeremías 30",
+      "Filipenses 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 13,
+    "passages": [
+      "Génesis 13",
+      "Salmos 45",
+      "Jeremías 31",
+      "Colosenses 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 14,
+    "passages": [
+      "Génesis 14",
+      "Salmos 46",
+      "Jeremías 32",
+      "Colosenses 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 15,
+    "passages": [
+      "Génesis 15",
+      "Salmos 47",
+      "Jeremías 33",
+      "Colosenses 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 16,
+    "passages": [
+      "Génesis 16",
+      "Salmos 48",
+      "Jeremías 34",
+      "Colosenses 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 17,
+    "passages": [
+      "Génesis 17",
+      "Salmos 49",
+      "Jeremías 35",
+      "1 Tesalonicenses 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 18,
+    "passages": [
+      "Génesis 18",
+      "Salmos 50",
+      "Jeremías 36",
+      "1 Tesalonicenses 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 19,
+    "passages": [
+      "Génesis 19",
+      "Salmos 51",
+      "Jeremías 37",
+      "1 Tesalonicenses 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 20,
+    "passages": [
+      "Génesis 20",
+      "Salmos 52",
+      "Jeremías 38",
+      "1 Tesalonicenses 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 21,
+    "passages": [
+      "Génesis 21",
+      "Salmos 53",
+      "Jeremías 39",
+      "1 Tesalonicenses 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 22,
+    "passages": [
+      "Génesis 22",
+      "Salmos 54",
+      "Jeremías 40",
+      "2 Tesalonicenses 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 23,
+    "passages": [
+      "Génesis 23",
+      "Salmos 55",
+      "Jeremías 41",
+      "2 Tesalonicenses 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 24,
+    "passages": [
+      "Génesis 24",
+      "Salmos 56",
+      "Jeremías 42",
+      "2 Tesalonicenses 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 25,
+    "passages": [
+      "Génesis 25",
+      "Salmos 57",
+      "Jeremías 43",
+      "1 Timoteo 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 26,
+    "passages": [
+      "Génesis 26",
+      "Salmos 58",
+      "Jeremías 44",
+      "1 Timoteo 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 27,
+    "passages": [
+      "Génesis 27",
+      "Salmos 59",
+      "Jeremías 45",
+      "1 Timoteo 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 28,
+    "passages": [
+      "Génesis 28",
+      "Salmos 60",
+      "Jeremías 46",
+      "1 Timoteo 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 29,
+    "passages": [
+      "Génesis 29",
+      "Salmos 61",
+      "Jeremías 47",
+      "1 Timoteo 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 30,
+    "passages": [
+      "Génesis 30",
+      "Salmos 62",
+      "Jeremías 48",
+      "1 Timoteo 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 31,
+    "passages": [
+      "Génesis 31",
+      "Salmos 63",
+      "Jeremías 49",
+      "2 Timoteo 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 32,
+    "passages": [
+      "Génesis 32",
+      "Salmos 64",
+      "Jeremías 50",
+      "2 Timoteo 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 33,
+    "passages": [
+      "Génesis 33",
+      "Salmos 65",
+      "Jeremías 51",
+      "2 Timoteo 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 34,
+    "passages": [
+      "Génesis 34",
+      "Salmos 66",
+      "Jeremías 52",
+      "2 Timoteo 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 35,
+    "passages": [
+      "Génesis 35",
+      "Salmos 67",
+      "Lamentaciones 1",
+      "Tito 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 36,
+    "passages": [
+      "Génesis 36",
+      "Salmos 68",
+      "Lamentaciones 2",
+      "Tito 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 37,
+    "passages": [
+      "Génesis 37",
+      "Salmos 69",
+      "Lamentaciones 3",
+      "Tito 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 38,
+    "passages": [
+      "Génesis 38",
+      "Salmos 70",
+      "Lamentaciones 4",
+      "Filemón 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 39,
+    "passages": [
+      "Génesis 39",
+      "Salmos 71",
+      "Lamentaciones 5",
+      "Hebreos 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 40,
+    "passages": [
+      "Génesis 40",
+      "Salmos 72",
+      "Oseas 1",
+      "Hebreos 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 41,
+    "passages": [
+      "Génesis 41",
+      "Salmos 73",
+      "Oseas 2",
+      "Hebreos 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 42,
+    "passages": [
+      "Génesis 42",
+      "Salmos 74",
+      "Oseas 3",
+      "Hebreos 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 43,
+    "passages": [
+      "Génesis 43",
+      "Salmos 75",
+      "Oseas 4",
+      "Hebreos 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 44,
+    "passages": [
+      "Génesis 44",
+      "Salmos 76",
+      "Oseas 5",
+      "Hebreos 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 45,
+    "passages": [
+      "Génesis 45",
+      "Salmos 77",
+      "Oseas 6",
+      "Hebreos 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 46,
+    "passages": [
+      "Génesis 46",
+      "Salmos 78",
+      "Oseas 7",
+      "Hebreos 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 47,
+    "passages": [
+      "Génesis 47",
+      "Salmos 79",
+      "Oseas 8",
+      "Hebreos 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 48,
+    "passages": [
+      "Génesis 48",
+      "Salmos 80",
+      "Oseas 9",
+      "Hebreos 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 49,
+    "passages": [
+      "Génesis 49",
+      "Salmos 81",
+      "Oseas 10",
+      "Hebreos 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 50,
+    "passages": [
+      "Génesis 50",
+      "Salmos 82",
+      "Oseas 11",
+      "Hebreos 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 51,
+    "passages": [
+      "Job 1",
+      "Salmos 83",
+      "Oseas 12",
+      "Hebreos 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 52,
+    "passages": [
+      "Job 2",
+      "Salmos 84",
+      "Oseas 13",
+      "Santiago 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 53,
+    "passages": [
+      "Job 3",
+      "Salmos 85",
+      "Oseas 14",
+      "Santiago 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 54,
+    "passages": [
+      "Job 4",
+      "Salmos 86",
+      "Joel 1",
+      "Santiago 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 55,
+    "passages": [
+      "Job 5",
+      "Salmos 87",
+      "Joel 2",
+      "Santiago 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 56,
+    "passages": [
+      "Job 6",
+      "Salmos 88",
+      "Joel 3",
+      "Santiago 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 57,
+    "passages": [
+      "Job 7",
+      "Salmos 89",
+      "Amós 1",
+      "1 Pedro 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 58,
+    "passages": [
+      "Job 8",
+      "Salmos 90",
+      "Amós 2",
+      "1 Pedro 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 59,
+    "passages": [
+      "Job 9",
+      "Salmos 91",
+      "Amós 3",
+      "1 Pedro 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 60,
+    "passages": [
+      "Job 10",
+      "Salmos 92",
+      "Amós 4",
+      "1 Pedro 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 61,
+    "passages": [
+      "Job 11",
+      "Salmos 93",
+      "Amós 5",
+      "1 Pedro 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 62,
+    "passages": [
+      "Job 12",
+      "Salmos 94",
+      "Amós 6",
+      "2 Pedro 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 63,
+    "passages": [
+      "Job 13",
+      "Salmos 95",
+      "Amós 7",
+      "2 Pedro 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 64,
+    "passages": [
+      "Job 14",
+      "Salmos 96",
+      "Amós 8",
+      "2 Pedro 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 65,
+    "passages": [
+      "Job 15",
+      "Salmos 97",
+      "Amós 9",
+      "1 Juan 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 66,
+    "passages": [
+      "Job 16",
+      "Salmos 98",
+      "Abdías 1",
+      "1 Juan 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 67,
+    "passages": [
+      "Job 17",
+      "Salmos 99",
+      "Jonás 1",
+      "1 Juan 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 68,
+    "passages": [
+      "Job 18",
+      "Salmos 100",
+      "Jonás 2",
+      "1 Juan 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 69,
+    "passages": [
+      "Job 19",
+      "Salmos 101",
+      "Jonás 3",
+      "1 Juan 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 70,
+    "passages": [
+      "Job 20",
+      "Salmos 102",
+      "Jonás 4",
+      "2 Juan 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 71,
+    "passages": [
+      "Job 21",
+      "Salmos 103",
+      "Miqueas 1",
+      "3 Juan 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 72,
+    "passages": [
+      "Job 22",
+      "Salmos 104",
+      "Miqueas 2",
+      "Judas 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 73,
+    "passages": [
+      "Job 23",
+      "Salmos 105",
+      "Miqueas 3",
+      "Apocalipsis 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 74,
+    "passages": [
+      "Job 24",
+      "Salmos 106",
+      "Miqueas 4",
+      "Apocalipsis 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 75,
+    "passages": [
+      "Job 25",
+      "Salmos 107",
+      "Miqueas 5",
+      "Apocalipsis 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 76,
+    "passages": [
+      "Job 26",
+      "Salmos 108",
+      "Miqueas 6",
+      "Apocalipsis 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 77,
+    "passages": [
+      "Job 27",
+      "Salmos 109",
+      "Miqueas 7",
+      "Apocalipsis 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 78,
+    "passages": [
+      "Job 28",
+      "Salmos 110",
+      "Nahum 1",
+      "Apocalipsis 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 79,
+    "passages": [
+      "Job 29",
+      "Salmos 111",
+      "Nahum 2",
+      "Apocalipsis 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 80,
+    "passages": [
+      "Job 30",
+      "Salmos 112",
+      "Nahum 3",
+      "Apocalipsis 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 81,
+    "passages": [
+      "Job 31",
+      "Salmos 113",
+      "Habacuc 1",
+      "Apocalipsis 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 82,
+    "passages": [
+      "Job 32",
+      "Salmos 114",
+      "Habacuc 2",
+      "Apocalipsis 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 83,
+    "passages": [
+      "Job 33",
+      "Salmos 115",
+      "Habacuc 3",
+      "Apocalipsis 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 84,
+    "passages": [
+      "Job 34",
+      "Salmos 116",
+      "Sofonías 1",
+      "Apocalipsis 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 85,
+    "passages": [
+      "Job 35",
+      "Salmos 117",
+      "Sofonías 2",
+      "Apocalipsis 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 86,
+    "passages": [
+      "Job 36",
+      "Salmos 118",
+      "Sofonías 3",
+      "Apocalipsis 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 87,
+    "passages": [
+      "Job 37",
+      "Salmos 119",
+      "Ezequiel 1",
+      "Apocalipsis 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 88,
+    "passages": [
+      "Job 38",
+      "Salmos 120",
+      "Ezequiel 2",
+      "Apocalipsis 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 89,
+    "passages": [
+      "Job 39",
+      "Salmos 121",
+      "Ezequiel 3",
+      "Apocalipsis 17"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 90,
+    "passages": [
+      "Job 40",
+      "Salmos 122",
+      "Ezequiel 4",
+      "Apocalipsis 18"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 91,
+    "passages": [
+      "Job 41",
+      "Salmos 123",
+      "Ezequiel 5",
+      "Apocalipsis 19"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 92,
+    "passages": [
+      "Job 42",
+      "Salmos 124",
+      "Ezequiel 6",
+      "Apocalipsis 20"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 93,
+    "passages": [
+      "Éxodo 1",
+      "Salmos 125",
+      "Ezequiel 7",
+      "Apocalipsis 21"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 94,
+    "passages": [
+      "Éxodo 2",
+      "Salmos 126",
+      "Ezequiel 8",
+      "Apocalipsis 22"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 95,
+    "passages": [
+      "Éxodo 3",
+      "Salmos 127",
+      "Ezequiel 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 96,
+    "passages": [
+      "Éxodo 4",
+      "Salmos 128",
+      "Ezequiel 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 97,
+    "passages": [
+      "Éxodo 5",
+      "Salmos 129",
+      "Ezequiel 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 98,
+    "passages": [
+      "Éxodo 6",
+      "Salmos 130",
+      "Ezequiel 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 99,
+    "passages": [
+      "Éxodo 7",
+      "Salmos 131",
+      "Ezequiel 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 100,
+    "passages": [
+      "Éxodo 8",
+      "Salmos 132",
+      "Ezequiel 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 101,
+    "passages": [
+      "Éxodo 9",
+      "Salmos 133",
+      "Ezequiel 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 102,
+    "passages": [
+      "Éxodo 10",
+      "Salmos 134",
+      "Ezequiel 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 103,
+    "passages": [
+      "Éxodo 11",
+      "Salmos 135",
+      "Ezequiel 17"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 104,
+    "passages": [
+      "Éxodo 12",
+      "Salmos 136",
+      "Ezequiel 18"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 105,
+    "passages": [
+      "Éxodo 13",
+      "Salmos 137",
+      "Ezequiel 19"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 106,
+    "passages": [
+      "Éxodo 14",
+      "Salmos 138",
+      "Ezequiel 20"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 107,
+    "passages": [
+      "Éxodo 15",
+      "Salmos 139",
+      "Ezequiel 21"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 108,
+    "passages": [
+      "Éxodo 16",
+      "Salmos 140",
+      "Ezequiel 22"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 109,
+    "passages": [
+      "Éxodo 17",
+      "Salmos 141",
+      "Ezequiel 23"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 110,
+    "passages": [
+      "Éxodo 18",
+      "Salmos 142",
+      "Ezequiel 24"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 111,
+    "passages": [
+      "Éxodo 19",
+      "Salmos 143",
+      "Ezequiel 25"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 112,
+    "passages": [
+      "Éxodo 20",
+      "Salmos 144",
+      "Ezequiel 26"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 113,
+    "passages": [
+      "Éxodo 21",
+      "Salmos 145",
+      "Ezequiel 27"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 114,
+    "passages": [
+      "Éxodo 22",
+      "Salmos 146",
+      "Ezequiel 28"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 115,
+    "passages": [
+      "Éxodo 23",
+      "Salmos 147",
+      "Ezequiel 29"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 116,
+    "passages": [
+      "Éxodo 24",
+      "Salmos 148",
+      "Ezequiel 30"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 117,
+    "passages": [
+      "Éxodo 25",
+      "Salmos 149",
+      "Ezequiel 31"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 118,
+    "passages": [
+      "Éxodo 26",
+      "Salmos 150",
+      "Ezequiel 32"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 119,
+    "passages": [
+      "Éxodo 27",
+      "1 Crónicas 1",
+      "Ezequiel 33"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 120,
+    "passages": [
+      "Éxodo 28",
+      "1 Crónicas 2",
+      "Ezequiel 34"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 121,
+    "passages": [
+      "Éxodo 29",
+      "1 Crónicas 3",
+      "Ezequiel 35"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 122,
+    "passages": [
+      "Éxodo 30",
+      "1 Crónicas 4",
+      "Ezequiel 36"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 123,
+    "passages": [
+      "Éxodo 31",
+      "1 Crónicas 5",
+      "Ezequiel 37"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 124,
+    "passages": [
+      "Éxodo 32",
+      "1 Crónicas 6",
+      "Ezequiel 38"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 125,
+    "passages": [
+      "Éxodo 33",
+      "1 Crónicas 7",
+      "Ezequiel 39"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 126,
+    "passages": [
+      "Éxodo 34",
+      "1 Crónicas 8",
+      "Ezequiel 40"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 127,
+    "passages": [
+      "Éxodo 35",
+      "1 Crónicas 9",
+      "Ezequiel 41"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 128,
+    "passages": [
+      "Éxodo 36",
+      "1 Crónicas 10",
+      "Ezequiel 42"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 129,
+    "passages": [
+      "Éxodo 37",
+      "1 Crónicas 11",
+      "Ezequiel 43"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 130,
+    "passages": [
+      "Éxodo 38",
+      "1 Crónicas 12",
+      "Ezequiel 44"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 131,
+    "passages": [
+      "Éxodo 39",
+      "1 Crónicas 13",
+      "Ezequiel 45"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 132,
+    "passages": [
+      "Éxodo 40",
+      "1 Crónicas 14",
+      "Ezequiel 46"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 133,
+    "passages": [
+      "Levítico 1",
+      "1 Crónicas 15",
+      "Ezequiel 47"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 134,
+    "passages": [
+      "Levítico 2",
+      "1 Crónicas 16",
+      "Ezequiel 48"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 135,
+    "passages": [
+      "Levítico 3",
+      "1 Crónicas 17",
+      "Daniel 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 136,
+    "passages": [
+      "Levítico 4",
+      "1 Crónicas 18",
+      "Daniel 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 137,
+    "passages": [
+      "Levítico 5",
+      "1 Crónicas 19",
+      "Daniel 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 138,
+    "passages": [
+      "Levítico 6",
+      "1 Crónicas 20",
+      "Daniel 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 139,
+    "passages": [
+      "Levítico 7",
+      "1 Crónicas 21",
+      "Daniel 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 140,
+    "passages": [
+      "Levítico 8",
+      "1 Crónicas 22",
+      "Daniel 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 141,
+    "passages": [
+      "Levítico 9",
+      "1 Crónicas 23",
+      "Daniel 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 142,
+    "passages": [
+      "Levítico 10",
+      "1 Crónicas 24",
+      "Daniel 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 143,
+    "passages": [
+      "Levítico 11",
+      "1 Crónicas 25",
+      "Daniel 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 144,
+    "passages": [
+      "Levítico 12",
+      "1 Crónicas 26",
+      "Daniel 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 145,
+    "passages": [
+      "Levítico 13",
+      "1 Crónicas 27",
+      "Daniel 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 146,
+    "passages": [
+      "Levítico 14",
+      "1 Crónicas 28",
+      "Daniel 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 147,
+    "passages": [
+      "Levítico 15",
+      "1 Crónicas 29",
+      "Esdras 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 148,
+    "passages": [
+      "Levítico 16",
+      "2 Crónicas 1",
+      "Esdras 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 149,
+    "passages": [
+      "Levítico 17",
+      "2 Crónicas 2",
+      "Esdras 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 150,
+    "passages": [
+      "Levítico 18",
+      "2 Crónicas 3",
+      "Esdras 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 151,
+    "passages": [
+      "Levítico 19",
+      "2 Crónicas 4",
+      "Esdras 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 152,
+    "passages": [
+      "Levítico 20",
+      "2 Crónicas 5",
+      "Esdras 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 153,
+    "passages": [
+      "Levítico 21",
+      "2 Crónicas 6",
+      "Esdras 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 154,
+    "passages": [
+      "Levítico 22",
+      "2 Crónicas 7",
+      "Esdras 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 155,
+    "passages": [
+      "Levítico 23",
+      "2 Crónicas 8",
+      "Esdras 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 156,
+    "passages": [
+      "Levítico 24",
+      "2 Crónicas 9",
+      "Esdras 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 157,
+    "passages": [
+      "Levítico 25",
+      "2 Crónicas 10",
+      "Hageo 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 158,
+    "passages": [
+      "Levítico 26",
+      "2 Crónicas 11",
+      "Hageo 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 159,
+    "passages": [
+      "Levítico 27",
+      "2 Crónicas 12",
+      "Zacarías 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 160,
+    "passages": [
+      "Números 1",
+      "2 Crónicas 13",
+      "Zacarías 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 161,
+    "passages": [
+      "Números 2",
+      "2 Crónicas 14",
+      "Zacarías 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 162,
+    "passages": [
+      "Números 3",
+      "2 Crónicas 15",
+      "Zacarías 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 163,
+    "passages": [
+      "Números 4",
+      "2 Crónicas 16",
+      "Zacarías 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 164,
+    "passages": [
+      "Números 5",
+      "2 Crónicas 17",
+      "Zacarías 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 165,
+    "passages": [
+      "Números 6",
+      "2 Crónicas 18",
+      "Zacarías 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 166,
+    "passages": [
+      "Números 7",
+      "2 Crónicas 19",
+      "Zacarías 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 167,
+    "passages": [
+      "Números 8",
+      "2 Crónicas 20",
+      "Zacarías 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 168,
+    "passages": [
+      "Números 9",
+      "2 Crónicas 21",
+      "Zacarías 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 169,
+    "passages": [
+      "Números 10",
+      "2 Crónicas 22",
+      "Zacarías 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 170,
+    "passages": [
+      "Números 11",
+      "2 Crónicas 23",
+      "Zacarías 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 171,
+    "passages": [
+      "Números 12",
+      "2 Crónicas 24",
+      "Zacarías 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 172,
+    "passages": [
+      "Números 13",
+      "2 Crónicas 25",
+      "Zacarías 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 173,
+    "passages": [
+      "Números 14",
+      "2 Crónicas 26",
+      "Ester 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 174,
+    "passages": [
+      "Números 15",
+      "2 Crónicas 27",
+      "Ester 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 175,
+    "passages": [
+      "Números 16",
+      "2 Crónicas 28",
+      "Ester 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 176,
+    "passages": [
+      "Números 17",
+      "2 Crónicas 29",
+      "Ester 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 177,
+    "passages": [
+      "Números 18",
+      "2 Crónicas 30",
+      "Ester 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 178,
+    "passages": [
+      "Números 19",
+      "2 Crónicas 31",
+      "Ester 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 179,
+    "passages": [
+      "Números 20",
+      "2 Crónicas 32",
+      "Ester 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 180,
+    "passages": [
+      "Números 21",
+      "2 Crónicas 33",
+      "Ester 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 181,
+    "passages": [
+      "Números 22",
+      "2 Crónicas 34",
+      "Ester 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 182,
+    "passages": [
+      "Números 23",
+      "2 Crónicas 35",
+      "Ester 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 183,
+    "passages": [
+      "Números 24",
+      "2 Crónicas 36",
+      "Nehemías 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 184,
+    "passages": [
+      "Números 25",
+      "1 Reyes 1",
+      "Nehemías 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 185,
+    "passages": [
+      "Números 26",
+      "1 Reyes 2",
+      "Nehemías 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 186,
+    "passages": [
+      "Números 27",
+      "1 Reyes 3",
+      "Nehemías 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 187,
+    "passages": [
+      "Números 28",
+      "1 Reyes 4",
+      "Nehemías 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 188,
+    "passages": [
+      "Números 29",
+      "1 Reyes 5",
+      "Nehemías 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 189,
+    "passages": [
+      "Números 30",
+      "1 Reyes 6",
+      "Nehemías 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 190,
+    "passages": [
+      "Números 31",
+      "1 Reyes 7",
+      "Nehemías 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 191,
+    "passages": [
+      "Números 32",
+      "1 Reyes 8",
+      "Nehemías 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 192,
+    "passages": [
+      "Números 33",
+      "1 Reyes 9",
+      "Nehemías 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 193,
+    "passages": [
+      "Números 34",
+      "1 Reyes 10",
+      "Nehemías 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 194,
+    "passages": [
+      "Números 35",
+      "1 Reyes 11",
+      "Nehemías 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 195,
+    "passages": [
+      "Números 36",
+      "1 Reyes 12",
+      "Nehemías 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 196,
+    "passages": [
+      "Deuteronomio 1",
+      "1 Reyes 13",
+      "Malaquías 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 197,
+    "passages": [
+      "Deuteronomio 2",
+      "1 Reyes 14",
+      "Malaquías 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 198,
+    "passages": [
+      "Deuteronomio 3",
+      "1 Reyes 15",
+      "Malaquías 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 199,
+    "passages": [
+      "Deuteronomio 4",
+      "1 Reyes 16",
+      "Malaquías 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 200,
+    "passages": [
+      "Deuteronomio 5",
+      "1 Reyes 17",
+      "Mateo 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 201,
+    "passages": [
+      "Deuteronomio 6",
+      "1 Reyes 18",
+      "Mateo 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 202,
+    "passages": [
+      "Deuteronomio 7",
+      "1 Reyes 19",
+      "Mateo 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 203,
+    "passages": [
+      "Deuteronomio 8",
+      "1 Reyes 20",
+      "Mateo 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 204,
+    "passages": [
+      "Deuteronomio 9",
+      "1 Reyes 21",
+      "Mateo 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 205,
+    "passages": [
+      "Deuteronomio 10",
+      "1 Reyes 22",
+      "Mateo 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 206,
+    "passages": [
+      "Deuteronomio 11",
+      "2 Reyes 1",
+      "Mateo 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 207,
+    "passages": [
+      "Deuteronomio 12",
+      "2 Reyes 2",
+      "Mateo 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 208,
+    "passages": [
+      "Deuteronomio 13",
+      "2 Reyes 3",
+      "Mateo 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 209,
+    "passages": [
+      "Deuteronomio 14",
+      "2 Reyes 4",
+      "Mateo 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 210,
+    "passages": [
+      "Deuteronomio 15",
+      "2 Reyes 5",
+      "Mateo 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 211,
+    "passages": [
+      "Deuteronomio 16",
+      "2 Reyes 6",
+      "Mateo 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 212,
+    "passages": [
+      "Deuteronomio 17",
+      "2 Reyes 7",
+      "Mateo 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 213,
+    "passages": [
+      "Deuteronomio 18",
+      "2 Reyes 8",
+      "Mateo 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 214,
+    "passages": [
+      "Deuteronomio 19",
+      "2 Reyes 9",
+      "Mateo 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 215,
+    "passages": [
+      "Deuteronomio 20",
+      "2 Reyes 10",
+      "Mateo 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 216,
+    "passages": [
+      "Deuteronomio 21",
+      "2 Reyes 11",
+      "Mateo 17"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 217,
+    "passages": [
+      "Deuteronomio 22",
+      "2 Reyes 12",
+      "Mateo 18"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 218,
+    "passages": [
+      "Deuteronomio 23",
+      "2 Reyes 13",
+      "Mateo 19"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 219,
+    "passages": [
+      "Deuteronomio 24",
+      "2 Reyes 14",
+      "Mateo 20"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 220,
+    "passages": [
+      "Deuteronomio 25",
+      "2 Reyes 15",
+      "Mateo 21"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 221,
+    "passages": [
+      "Deuteronomio 26",
+      "2 Reyes 16",
+      "Mateo 22"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 222,
+    "passages": [
+      "Deuteronomio 27",
+      "2 Reyes 17",
+      "Mateo 23"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 223,
+    "passages": [
+      "Deuteronomio 28",
+      "2 Reyes 18",
+      "Mateo 24"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 224,
+    "passages": [
+      "Deuteronomio 29",
+      "2 Reyes 19",
+      "Mateo 25"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 225,
+    "passages": [
+      "Deuteronomio 30",
+      "2 Reyes 20",
+      "Mateo 26"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 226,
+    "passages": [
+      "Deuteronomio 31",
+      "2 Reyes 21",
+      "Mateo 27"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 227,
+    "passages": [
+      "Deuteronomio 32",
+      "2 Reyes 22",
+      "Mateo 28"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 228,
+    "passages": [
+      "Deuteronomio 33",
+      "2 Reyes 23",
+      "Marcos 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 229,
+    "passages": [
+      "Deuteronomio 34",
+      "2 Reyes 24",
+      "Marcos 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 230,
+    "passages": [
+      "Josué 1",
+      "2 Reyes 25",
+      "Marcos 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 231,
+    "passages": [
+      "Josué 2",
+      "Proverbios 1",
+      "Marcos 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 232,
+    "passages": [
+      "Josué 3",
+      "Proverbios 2",
+      "Marcos 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 233,
+    "passages": [
+      "Josué 4",
+      "Proverbios 3",
+      "Marcos 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 234,
+    "passages": [
+      "Josué 5",
+      "Proverbios 4",
+      "Marcos 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 235,
+    "passages": [
+      "Josué 6",
+      "Proverbios 5",
+      "Marcos 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 236,
+    "passages": [
+      "Josué 7",
+      "Proverbios 6",
+      "Marcos 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 237,
+    "passages": [
+      "Josué 8",
+      "Proverbios 7",
+      "Marcos 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 238,
+    "passages": [
+      "Josué 9",
+      "Proverbios 8",
+      "Marcos 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 239,
+    "passages": [
+      "Josué 10",
+      "Proverbios 9",
+      "Marcos 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 240,
+    "passages": [
+      "Josué 11",
+      "Proverbios 10",
+      "Marcos 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 241,
+    "passages": [
+      "Josué 12",
+      "Proverbios 11",
+      "Marcos 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 242,
+    "passages": [
+      "Josué 13",
+      "Proverbios 12",
+      "Marcos 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 243,
+    "passages": [
+      "Josué 14",
+      "Proverbios 13",
+      "Marcos 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 244,
+    "passages": [
+      "Josué 15",
+      "Proverbios 14",
+      "Lucas 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 245,
+    "passages": [
+      "Josué 16",
+      "Proverbios 15",
+      "Lucas 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 246,
+    "passages": [
+      "Josué 17",
+      "Proverbios 16",
+      "Lucas 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 247,
+    "passages": [
+      "Josué 18",
+      "Proverbios 17",
+      "Lucas 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 248,
+    "passages": [
+      "Josué 19",
+      "Proverbios 18",
+      "Lucas 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 249,
+    "passages": [
+      "Josué 20",
+      "Proverbios 19",
+      "Lucas 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 250,
+    "passages": [
+      "Josué 21",
+      "Proverbios 20",
+      "Lucas 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 251,
+    "passages": [
+      "Josué 22",
+      "Proverbios 21",
+      "Lucas 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 252,
+    "passages": [
+      "Josué 23",
+      "Proverbios 22",
+      "Lucas 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 253,
+    "passages": [
+      "Josué 24",
+      "Proverbios 23",
+      "Lucas 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 254,
+    "passages": [
+      "Jueces 1",
+      "Proverbios 24",
+      "Lucas 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 255,
+    "passages": [
+      "Jueces 2",
+      "Proverbios 25",
+      "Lucas 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 256,
+    "passages": [
+      "Jueces 3",
+      "Proverbios 26",
+      "Lucas 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 257,
+    "passages": [
+      "Jueces 4",
+      "Proverbios 27",
+      "Lucas 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 258,
+    "passages": [
+      "Jueces 5",
+      "Proverbios 28",
+      "Lucas 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 259,
+    "passages": [
+      "Jueces 6",
+      "Proverbios 29",
+      "Lucas 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 260,
+    "passages": [
+      "Jueces 7",
+      "Proverbios 30",
+      "Lucas 17"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 261,
+    "passages": [
+      "Jueces 8",
+      "Proverbios 31",
+      "Lucas 18"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 262,
+    "passages": [
+      "Jueces 9",
+      "Eclesiastés 1",
+      "Lucas 19"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 263,
+    "passages": [
+      "Jueces 10",
+      "Eclesiastés 2",
+      "Lucas 20"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 264,
+    "passages": [
+      "Jueces 11",
+      "Eclesiastés 3",
+      "Lucas 21"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 265,
+    "passages": [
+      "Jueces 12",
+      "Eclesiastés 4",
+      "Lucas 22"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 266,
+    "passages": [
+      "Jueces 13",
+      "Eclesiastés 5",
+      "Lucas 23"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 267,
+    "passages": [
+      "Jueces 14",
+      "Eclesiastés 6",
+      "Lucas 24"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 268,
+    "passages": [
+      "Jueces 15",
+      "Eclesiastés 7",
+      "Juan 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 269,
+    "passages": [
+      "Jueces 16",
+      "Eclesiastés 8",
+      "Juan 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 270,
+    "passages": [
+      "Jueces 17",
+      "Eclesiastés 9",
+      "Juan 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 271,
+    "passages": [
+      "Jueces 18",
+      "Eclesiastés 10",
+      "Juan 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 272,
+    "passages": [
+      "Jueces 19",
+      "Eclesiastés 11",
+      "Juan 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 273,
+    "passages": [
+      "Jueces 20",
+      "Eclesiastés 12",
+      "Juan 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 274,
+    "passages": [
+      "Jueces 21",
+      "Cantares 1",
+      "Juan 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 275,
+    "passages": [
+      "Rut 1",
+      "Cantares 2",
+      "Juan 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 276,
+    "passages": [
+      "Rut 2",
+      "Cantares 3",
+      "Juan 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 277,
+    "passages": [
+      "Rut 3",
+      "Cantares 4",
+      "Juan 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 278,
+    "passages": [
+      "Rut 4",
+      "Cantares 5",
+      "Juan 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 279,
+    "passages": [
+      "1 Samuel 1",
+      "Cantares 6",
+      "Juan 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 280,
+    "passages": [
+      "1 Samuel 2",
+      "Cantares 7",
+      "Juan 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 281,
+    "passages": [
+      "1 Samuel 3",
+      "Cantares 8",
+      "Juan 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 282,
+    "passages": [
+      "1 Samuel 4",
+      "Isaías 1",
+      "Juan 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 283,
+    "passages": [
+      "1 Samuel 5",
+      "Isaías 2",
+      "Juan 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 284,
+    "passages": [
+      "1 Samuel 6",
+      "Isaías 3",
+      "Juan 17"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 285,
+    "passages": [
+      "1 Samuel 7",
+      "Isaías 4",
+      "Juan 18"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 286,
+    "passages": [
+      "1 Samuel 8",
+      "Isaías 5",
+      "Juan 19"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 287,
+    "passages": [
+      "1 Samuel 9",
+      "Isaías 6",
+      "Juan 20"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 288,
+    "passages": [
+      "1 Samuel 10",
+      "Isaías 7",
+      "Juan 21"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 289,
+    "passages": [
+      "1 Samuel 11",
+      "Isaías 8",
+      "Hechos 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 290,
+    "passages": [
+      "1 Samuel 12",
+      "Isaías 9",
+      "Hechos 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 291,
+    "passages": [
+      "1 Samuel 13",
+      "Isaías 10",
+      "Hechos 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 292,
+    "passages": [
+      "1 Samuel 14",
+      "Isaías 11",
+      "Hechos 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 293,
+    "passages": [
+      "1 Samuel 15",
+      "Isaías 12",
+      "Hechos 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 294,
+    "passages": [
+      "1 Samuel 16",
+      "Isaías 13",
+      "Hechos 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 295,
+    "passages": [
+      "1 Samuel 17",
+      "Isaías 14",
+      "Hechos 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 296,
+    "passages": [
+      "1 Samuel 18",
+      "Isaías 15",
+      "Hechos 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 297,
+    "passages": [
+      "1 Samuel 19",
+      "Isaías 16",
+      "Hechos 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 298,
+    "passages": [
+      "1 Samuel 20",
+      "Isaías 17",
+      "Hechos 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 299,
+    "passages": [
+      "1 Samuel 21",
+      "Isaías 18",
+      "Hechos 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 300,
+    "passages": [
+      "1 Samuel 22",
+      "Isaías 19",
+      "Hechos 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 301,
+    "passages": [
+      "1 Samuel 23",
+      "Isaías 20",
+      "Hechos 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 302,
+    "passages": [
+      "1 Samuel 24",
+      "Isaías 21",
+      "Hechos 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 303,
+    "passages": [
+      "1 Samuel 25",
+      "Isaías 22",
+      "Hechos 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 304,
+    "passages": [
+      "1 Samuel 26",
+      "Isaías 23",
+      "Hechos 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 305,
+    "passages": [
+      "1 Samuel 27",
+      "Isaías 24",
+      "Hechos 17"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 306,
+    "passages": [
+      "1 Samuel 28",
+      "Isaías 25",
+      "Hechos 18"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 307,
+    "passages": [
+      "1 Samuel 29",
+      "Isaías 26",
+      "Hechos 19"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 308,
+    "passages": [
+      "1 Samuel 30",
+      "Isaías 27",
+      "Hechos 20"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 309,
+    "passages": [
+      "1 Samuel 31",
+      "Isaías 28",
+      "Hechos 21"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 310,
+    "passages": [
+      "2 Samuel 1",
+      "Isaías 29",
+      "Hechos 22"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 311,
+    "passages": [
+      "2 Samuel 2",
+      "Isaías 30",
+      "Hechos 23"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 312,
+    "passages": [
+      "2 Samuel 3",
+      "Isaías 31",
+      "Hechos 24"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 313,
+    "passages": [
+      "2 Samuel 4",
+      "Isaías 32",
+      "Hechos 25"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 314,
+    "passages": [
+      "2 Samuel 5",
+      "Isaías 33",
+      "Hechos 26"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 315,
+    "passages": [
+      "2 Samuel 6",
+      "Isaías 34",
+      "Hechos 27"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 316,
+    "passages": [
+      "2 Samuel 7",
+      "Isaías 35",
+      "Hechos 28"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 317,
+    "passages": [
+      "2 Samuel 8",
+      "Isaías 36",
+      "Romanos 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 318,
+    "passages": [
+      "2 Samuel 9",
+      "Isaías 37",
+      "Romanos 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 319,
+    "passages": [
+      "2 Samuel 10",
+      "Isaías 38",
+      "Romanos 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 320,
+    "passages": [
+      "2 Samuel 11",
+      "Isaías 39",
+      "Romanos 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 321,
+    "passages": [
+      "2 Samuel 12",
+      "Isaías 40",
+      "Romanos 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 322,
+    "passages": [
+      "2 Samuel 13",
+      "Isaías 41",
+      "Romanos 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 323,
+    "passages": [
+      "2 Samuel 14",
+      "Isaías 42",
+      "Romanos 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 324,
+    "passages": [
+      "2 Samuel 15",
+      "Isaías 43",
+      "Romanos 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 325,
+    "passages": [
+      "2 Samuel 16",
+      "Isaías 44",
+      "Romanos 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 326,
+    "passages": [
+      "2 Samuel 17",
+      "Isaías 45",
+      "Romanos 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 327,
+    "passages": [
+      "2 Samuel 18",
+      "Isaías 46",
+      "Romanos 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 328,
+    "passages": [
+      "2 Samuel 19",
+      "Isaías 47",
+      "Romanos 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 329,
+    "passages": [
+      "2 Samuel 20",
+      "Isaías 48",
+      "Romanos 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 330,
+    "passages": [
+      "2 Samuel 21",
+      "Isaías 49",
+      "Romanos 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 331,
+    "passages": [
+      "2 Samuel 22",
+      "Isaías 50",
+      "Romanos 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 332,
+    "passages": [
+      "2 Samuel 23",
+      "Isaías 51",
+      "Romanos 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 333,
+    "passages": [
+      "2 Samuel 24",
+      "Isaías 52",
+      "1 Corintios 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 334,
+    "passages": [
+      "Salmos 1",
+      "Isaías 53",
+      "1 Corintios 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 335,
+    "passages": [
+      "Salmos 2",
+      "Isaías 54",
+      "1 Corintios 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 336,
+    "passages": [
+      "Salmos 3",
+      "Isaías 55",
+      "1 Corintios 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 337,
+    "passages": [
+      "Salmos 4",
+      "Isaías 56",
+      "1 Corintios 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 338,
+    "passages": [
+      "Salmos 5",
+      "Isaías 57",
+      "1 Corintios 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 339,
+    "passages": [
+      "Salmos 6",
+      "Isaías 58",
+      "1 Corintios 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 340,
+    "passages": [
+      "Salmos 7",
+      "Isaías 59",
+      "1 Corintios 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 341,
+    "passages": [
+      "Salmos 8",
+      "Isaías 60",
+      "1 Corintios 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 342,
+    "passages": [
+      "Salmos 9",
+      "Isaías 61",
+      "1 Corintios 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 343,
+    "passages": [
+      "Salmos 10",
+      "Isaías 62",
+      "1 Corintios 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 344,
+    "passages": [
+      "Salmos 11",
+      "Isaías 63",
+      "1 Corintios 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 345,
+    "passages": [
+      "Salmos 12",
+      "Isaías 64",
+      "1 Corintios 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 346,
+    "passages": [
+      "Salmos 13",
+      "Isaías 65",
+      "1 Corintios 14"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 347,
+    "passages": [
+      "Salmos 14",
+      "Isaías 66",
+      "1 Corintios 15"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 348,
+    "passages": [
+      "Salmos 15",
+      "Jeremías 1",
+      "1 Corintios 16"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 349,
+    "passages": [
+      "Salmos 16",
+      "Jeremías 2",
+      "2 Corintios 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 350,
+    "passages": [
+      "Salmos 17",
+      "Jeremías 3",
+      "2 Corintios 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 351,
+    "passages": [
+      "Salmos 18",
+      "Jeremías 4",
+      "2 Corintios 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 352,
+    "passages": [
+      "Salmos 19",
+      "Jeremías 5",
+      "2 Corintios 4"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 353,
+    "passages": [
+      "Salmos 20",
+      "Jeremías 6",
+      "2 Corintios 5"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 354,
+    "passages": [
+      "Salmos 21",
+      "Jeremías 7",
+      "2 Corintios 6"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 355,
+    "passages": [
+      "Salmos 22",
+      "Jeremías 8",
+      "2 Corintios 7"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 356,
+    "passages": [
+      "Salmos 23",
+      "Jeremías 9",
+      "2 Corintios 8"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 357,
+    "passages": [
+      "Salmos 24",
+      "Jeremías 10",
+      "2 Corintios 9"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 358,
+    "passages": [
+      "Salmos 25",
+      "Jeremías 11",
+      "2 Corintios 10"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 359,
+    "passages": [
+      "Salmos 26",
+      "Jeremías 12",
+      "2 Corintios 11"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 360,
+    "passages": [
+      "Salmos 27",
+      "Jeremías 13",
+      "2 Corintios 12"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 361,
+    "passages": [
+      "Salmos 28",
+      "Jeremías 14",
+      "2 Corintios 13"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 362,
+    "passages": [
+      "Salmos 29",
+      "Jeremías 15",
+      "Gálatas 1"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 363,
+    "passages": [
+      "Salmos 30",
+      "Jeremías 16",
+      "Gálatas 2"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 364,
+    "passages": [
+      "Salmos 31",
+      "Jeremías 17",
+      "Gálatas 3"
+    ]
+  },
+  {
+    "planId": "chrono",
+    "day": 365,
+    "passages": [
+      "Salmos 32",
+      "Jeremías 18",
+      "Gálatas 4"
+    ]
+  }
+]

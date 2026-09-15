@@ -1,0 +1,1124 @@
+[
+  {
+    "bookId": "GEN",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Génesis forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "EXO",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Éxodo forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "LEV",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Levítico forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "NUM",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Números forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "DEU",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Deuteronomio forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JOS",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Josué forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JDG",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Jueces forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "RUT",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Rut forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1SA",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Samuel forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2SA",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Samuel forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1KI",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Reyes forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2KI",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Reyes forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1CH",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Crónicas forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2CH",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Crónicas forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "EZR",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Esdras forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "NEH",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Nehemías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "EST",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Ester forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JOB",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Job forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "PSA",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Salmos forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "PRO",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Proverbios forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "ECC",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Eclesiastés forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "SNG",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Cantares forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "ISA",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Isaías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JER",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Jeremías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "LAM",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Lamentaciones forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "EZK",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Ezequiel forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "DAN",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Daniel forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "HOS",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Oseas forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JOL",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Joel forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "AMO",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Amós forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "OBA",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Abdías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JON",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Jonás forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "MIC",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Miqueas forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "NAM",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Nahum forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "HAB",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Habacuc forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "ZEP",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Sofonías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "HAG",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Hageo forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "ZEC",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Zacarías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "MAL",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Malaquías forma parte del Antiguo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "MAT",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Mateo forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "MRK",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Marcos forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "LUK",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Lucas forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JHN",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Juan forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "ACT",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Hechos forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "ROM",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Romanos forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1CO",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Corintios forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2CO",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Corintios forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "GAL",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Gálatas forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "EPH",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Efesios forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "PHP",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Filipenses forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "COL",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Colosenses forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1TH",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Tesalonicenses forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2TH",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Tesalonicenses forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1TI",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Timoteo forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2TI",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Timoteo forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "TIT",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Tito forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "PHM",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Filemón forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "HEB",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Hebreos forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JAS",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Santiago forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1PE",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Pedro forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2PE",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Pedro forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "1JN",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "1 Juan forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "2JN",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "2 Juan forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "3JN",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "3 Juan forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "JUD",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Judas forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  },
+  {
+    "bookId": "REV",
+    "author": "Autor tradicional según la introducción histórica de cada libro; consultar fuentes de estudio para debates de autoría.",
+    "date": "Fecha aproximada variable según el libro y la tradición académica.",
+    "context": "Apocalipsis forma parte del Nuevo Testamento. Esta ficha introductoria está diseñada como orientación general, no como comentario confesional exhaustivo.",
+    "purpose": "Presentar los temas, acontecimientos y enseñanza principal del libro dentro del canon bíblico.",
+    "themes": [
+      "Contexto histórico",
+      "Mensaje principal",
+      "Personajes y acontecimientos"
+    ],
+    "outline": [
+      "Introducción",
+      "Desarrollo",
+      "Conclusión"
+    ]
+  }
+]

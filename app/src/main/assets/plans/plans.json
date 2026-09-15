@@ -1,0 +1,14 @@
+[
+  {
+    "id": "year",
+    "name": "Biblia en un año",
+    "description": "Lectura distribuida en 365 días.",
+    "totalDays": 365
+  },
+  {
+    "id": "chrono",
+    "name": "Cronológica",
+    "description": "Recorrido aproximado siguiendo una secuencia histórica de acontecimientos.",
+    "totalDays": 365
+  }
+]

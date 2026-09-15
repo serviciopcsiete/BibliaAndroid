@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rv1909",
+    "name": "Reina-Valera 1909",
+    "abbreviation": "RV1909",
+    "language": "Español",
+    "license": "Dominio público"
+  },
+  {
+    "id": "web",
+    "name": "World English Bible",
+    "abbreviation": "WEB",
+    "language": "English",
+    "license": "Public Domain"
+  }
+]
