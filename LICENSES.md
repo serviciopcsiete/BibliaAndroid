@@ -1,10 +1,15 @@
-# Licencias de contenido
+# Licencias y fuentes de contenido
 
-## Reina-Valera 1909
-Fuente prevista: eBible.org (`spaRV1909`). eBible.org identifica esta traducción como **Dominio Público**.
+## RVR1960
+El archivo RVR1960 incluido en esta versión fue proporcionado por el usuario para pruebas privadas de desarrollo.
+El propio dataset declara:
+
+> Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.
+
+No debe interpretarse la inclusión en este proyecto de prueba como autorización para redistribución pública o comercial.
+
+## RV1909
+Corpus demostrativo incluido en el proyecto. La Reina-Valera 1909 es de dominio público.
 
 ## World English Bible
-Fuente prevista: eBible.org (`engwebp`). La WEB está dedicada al **Public Domain**. “World English Bible” es una marca de eBible.org; el texto no debe modificarse y seguir denominándose WEB.
-
-## Código de la aplicación
-Código generado para este proyecto. Antes de publicar, define la licencia de software que prefieras.
+Corpus demostrativo incluido en el proyecto. Texto de dominio público; el nombre World English Bible puede estar sujeto a condiciones de marca.

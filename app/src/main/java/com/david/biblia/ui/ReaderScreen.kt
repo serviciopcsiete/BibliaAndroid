@@ -12,7 +12,6 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.pager.HorizontalPager
@@ -46,10 +45,13 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.buildAnnotatedString
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.david.biblia.data.BibleBlock
 import com.david.biblia.data.Verse
 import kotlin.math.absoluteValue
 
@@ -64,13 +66,13 @@ fun ReaderScreen(
 ) {
     val prefs by vm.prefs.collectAsState()
     val bookData = vm.repo.books.find { it.id == book }
-    var verses by remember(prefs.version, book, chapter) {
-        mutableStateOf(vm.repo.chapter(prefs.version, book, chapter))
+    var blocks by remember(prefs.version, book, chapter) {
+        mutableStateOf(vm.repo.chapterBlocks(prefs.version, book, chapter))
     }
     var selected by remember { mutableStateOf<Verse?>(null) }
 
     LaunchedEffect(book, chapter, prefs.version) {
-        verses = vm.repo.chapter(prefs.version, book, chapter)
+        blocks = vm.repo.chapterBlocks(prefs.version, book, chapter)
         vm.updatePrefs { it.copy(book = book, chapter = chapter) }
         vm.history(prefs.version, book, chapter)
     }
@@ -78,7 +80,15 @@ fun ReaderScreen(
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("${bookData?.name ?: book} $chapter") },
+                title = {
+                    Column {
+                        Text("${bookData?.name ?: book} $chapter")
+                        Text(
+                            vm.repo.versions.find { it.id == prefs.version }?.abbreviation ?: prefs.version,
+                            style = MaterialTheme.typography.labelSmall
+                        )
+                    }
+                },
                 navigationIcon = {
                     IconButton(onClick = onBack) {
                         Icon(Icons.Default.ArrowBack, contentDescription = "Atrás")
@@ -93,28 +103,34 @@ fun ReaderScreen(
         }
     ) { padding ->
         when {
-            verses.isEmpty() -> {
+            blocks.isEmpty() -> {
                 Box(
                     modifier = Modifier.padding(padding).fillMaxSize(),
                     contentAlignment = Alignment.Center
                 ) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                        Text("Texto bíblico no instalado para ${prefs.version}.")
+                        Text("No hay texto disponible para este capítulo.")
                         Text(
-                            "Usa tools/import_usfm.py para generar el corpus oficial.",
+                            vm.repo.versions.find { it.id == prefs.version }?.name ?: prefs.version,
                             style = MaterialTheme.typography.bodySmall
                         )
                     }
                 }
             }
             prefs.pageMode -> PagedReader(
-                verses = verses,
+                blocks = blocks,
+                version = prefs.version,
+                book = book,
+                chapter = chapter,
                 font = prefs.fontSize,
                 modifier = Modifier.padding(padding),
                 onVerse = { selected = it }
             )
             else -> ScrollReader(
-                verses = verses,
+                blocks = blocks,
+                version = prefs.version,
+                book = book,
+                chapter = chapter,
                 font = prefs.fontSize,
                 modifier = Modifier.padding(padding),
                 onVerse = { selected = it }
@@ -123,47 +139,44 @@ fun ReaderScreen(
     }
 
     selected?.let { verse ->
-        VerseActions(
-            verse = verse,
-            onDismiss = { selected = null },
-            vm = vm
-        )
+        VerseActions(verse = verse, onDismiss = { selected = null }, vm = vm)
     }
 }
 
 @Composable
 private fun ScrollReader(
-    verses: List<Verse>,
+    blocks: List<BibleBlock>,
+    version: String,
+    book: String,
+    chapter: Int,
     font: Int,
     modifier: Modifier,
     onVerse: (Verse) -> Unit
 ) {
     LazyColumn(
         modifier = modifier.fillMaxSize(),
-        contentPadding = PaddingValues(22.dp)
+        contentPadding = PaddingValues(horizontal = 22.dp, vertical = 18.dp)
     ) {
-        items(verses) { verse -> VerseRow(verse, font, onVerse) }
+        items(blocks) { block -> BibleBlockRow(block, version, book, chapter, font, onVerse) }
     }
 }
 
 @Composable
 private fun PagedReader(
-    verses: List<Verse>,
+    blocks: List<BibleBlock>,
+    version: String,
+    book: String,
+    chapter: Int,
     font: Int,
     modifier: Modifier,
     onVerse: (Verse) -> Unit
 ) {
-    val perPage = (42 - (font - 14)).coerceIn(12, 32)
-    val pages = verses.chunked(perPage)
+    val perPage = (36 - (font - 14)).coerceIn(10, 28)
+    val pages = blocks.chunked(perPage)
     val state = rememberPagerState(pageCount = { pages.size })
 
-    HorizontalPager(
-        state = state,
-        modifier = modifier.fillMaxSize()
-    ) { page ->
-        val offset = ((state.currentPage - page) + state.currentPageOffsetFraction)
-            .coerceIn(-1f, 1f)
-
+    HorizontalPager(state = state, modifier = modifier.fillMaxSize()) { page ->
+        val offset = ((state.currentPage - page) + state.currentPageOffsetFraction).coerceIn(-1f, 1f)
         Card(
             modifier = Modifier
                 .padding(12.dp)
@@ -175,12 +188,15 @@ private fun PagedReader(
                 }
         ) {
             LazyColumn(contentPadding = PaddingValues(22.dp)) {
-                items(pages[page]) { verse -> VerseRow(verse, font, onVerse) }
+                items(pages[page]) { block ->
+                    BibleBlockRow(block, version, book, chapter, font, onVerse)
+                }
                 item {
                     Text(
                         text = "${page + 1} / ${pages.size}",
                         modifier = Modifier.fillMaxWidth().padding(16.dp),
-                        style = MaterialTheme.typography.labelSmall
+                        style = MaterialTheme.typography.labelSmall,
+                        textAlign = TextAlign.Center
                     )
                 }
             }
@@ -189,29 +205,54 @@ private fun PagedReader(
 }
 
 @Composable
-private fun VerseRow(
-    verse: Verse,
+private fun BibleBlockRow(
+    block: BibleBlock,
+    version: String,
+    book: String,
+    chapter: Int,
     font: Int,
     onVerse: (Verse) -> Unit
 ) {
-    Text(
-        text = buildAnnotatedString {
-            withStyle(
-                MaterialTheme.typography.labelSmall
-                    .toSpanStyle()
-                    .copy(fontWeight = FontWeight.Bold)
-            ) {
-                append("${verse.verse}  ")
-            }
-            append(verse.text)
-        },
-        fontSize = font.sp,
-        lineHeight = (font * 1.55f).sp,
-        modifier = Modifier
-            .fillMaxWidth()
-            .clickable { onVerse(verse) }
-            .padding(vertical = 5.dp)
-    )
+    when(block.type) {
+        "heading" -> Text(
+            block.text,
+            style = MaterialTheme.typography.titleMedium,
+            fontWeight = FontWeight.Bold,
+            modifier = Modifier.fillMaxWidth().padding(top = 18.dp, bottom = 8.dp)
+        )
+        "section" -> Text(
+            block.text,
+            style = MaterialTheme.typography.headlineSmall,
+            fontWeight = FontWeight.SemiBold,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth().padding(vertical = 20.dp)
+        )
+        "label" -> Text(
+            block.text,
+            style = MaterialTheme.typography.bodyMedium,
+            fontStyle = FontStyle.Italic,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+            modifier = Modifier.fillMaxWidth().padding(vertical = 5.dp)
+        )
+        else -> {
+            val verseNumber = block.verse ?: return
+            val verse = Verse(version, book, chapter, verseNumber, block.text)
+            Text(
+                text = buildAnnotatedString {
+                    withStyle(MaterialTheme.typography.labelSmall.toSpanStyle().copy(fontWeight = FontWeight.Bold)) {
+                        append("$verseNumber  ")
+                    }
+                    append(block.text)
+                },
+                fontSize = font.sp,
+                lineHeight = (font * 1.55f).sp,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { onVerse(verse) }
+                    .padding(vertical = 5.dp)
+            )
+        }
+    }
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -226,10 +267,8 @@ private fun VerseActions(
 
     ModalBottomSheet(onDismissRequest = onDismiss) {
         Column(Modifier.padding(20.dp)) {
-            Text(
-                "${vm.repo.books.find { it.id == verse.bookId }?.name ?: verse.bookId} ${verse.chapter}:${verse.verse}",
-                fontWeight = FontWeight.Bold
-            )
+            val bookName = vm.repo.books.find { it.id == verse.bookId }?.name ?: verse.bookId
+            Text("$bookName ${verse.chapter}:${verse.verse}", fontWeight = FontWeight.Bold)
             Text(verse.text, Modifier.padding(vertical = 12.dp))
 
             Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
@@ -240,12 +279,10 @@ private fun VerseActions(
                 )
                 AssistChip(
                     onClick = {
+                        val versionName = vm.repo.versions.find { it.id == verse.versionId }?.abbreviation ?: verse.versionId
                         val intent = Intent(Intent.ACTION_SEND).apply {
                             type = "text/plain"
-                            putExtra(
-                                Intent.EXTRA_TEXT,
-                                "${verse.text} — ${verse.bookId} ${verse.chapter}:${verse.verse}"
-                            )
+                            putExtra(Intent.EXTRA_TEXT, "${verse.text} — $bookName ${verse.chapter}:${verse.verse} ($versionName)")
                         }
                         context.startActivity(Intent.createChooser(intent, "Compartir versículo"))
                     },
@@ -266,9 +303,7 @@ private fun VerseActions(
                     onDismiss()
                 },
                 modifier = Modifier.padding(top = 10.dp)
-            ) {
-                Text("Guardar nota")
-            }
+            ) { Text("Guardar nota") }
             Spacer(Modifier.height(18.dp))
         }
     }

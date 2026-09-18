@@ -1,22 +1,23 @@
-# Changelog
+# CHANGELOG
 
-## [1.0.0] - 2026-09-15
-### Added
-- Primera versión funcional del proyecto Android.
-- Navegación principal Inicio/Biblia/Planes/Temas/Ajustes.
-- Lector offline, modo página y scroll.
-- Soporte multiversión y conversor USFM.
-- Base Room para favoritos, notas, resaltados, historial y progreso.
-- Planes anual y cronológico de 365 días.
-- Temas por necesidad.
-- Configuración persistente mediante DataStore.
-- Soporte de tema claro, sepia y oscuro.
-- Compartir versículos.
+## 1.1.0 - 2026-09-17
 
-## 1.0.1
-- Migración a Kotlin integrado de AGP 9.4.
-- Eliminado `org.jetbrains.kotlin.android` incompatible con el nuevo DSL de AGP 9.
-- Corregidos errores de compilación Compose en `BibleApp.kt`, `ReaderScreen.kt`, `Screens.kt` y `Theme.kt`.
-- Añadidos argumentos KSP para exportar esquemas de Room.
-- Añadido `codemagic.yaml` para compilación Debug con Gradle 9.6.0 y JDK 17.
-- Incrementados `versionCode` a 2 y `versionName` a 1.0.1.
+### Añadido
+- Integración offline completa del dataset RVR1960 proporcionado para pruebas.
+- RVR1960 como versión bíblica predeterminada.
+- Parser compatible con el formato rico del JSON: libros, capítulos, versículos, encabezados, etiquetas y secciones.
+- Renderizado de `heading1`, `label` y `section1` en el lector.
+- Conservación de saltos de línea en pasajes poéticos.
+- Normalización de capítulos duplicados mediante `chapter_usfm`.
+- Fusión de fragmentos repetidos del mismo número de versículo para búsqueda.
+- Identificación de la versión al compartir un versículo.
+
+### Corregido
+- Import incorrecto de `weight` en `Screens.kt`.
+- Mensaje del lector cuando un capítulo no dispone de contenido.
+
+## 1.0.1 - 2026-09-15
+- Primera compilación APK exitosa en Codemagic tras correcciones Kotlin/Compose/AGP.
+
+## 1.0.0 - 2026-09-15
+- Estructura inicial de la aplicación Android.

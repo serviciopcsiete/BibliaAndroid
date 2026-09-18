@@ -1,4 +1,10 @@
-# Biblia Android — V1.0.0
+# BibliaAndroid V1.1.0
+
+## Estado actual
+
+La V1.1.0 integra el dataset RVR1960 completo proporcionado para pruebas privadas. La aplicación puede leer los 66 libros y 1189 capítulos únicos del corpus, buscar texto y utilizar favoritos/notas sobre RVR1960. El lector conserva encabezados y saltos de línea poéticos.
+
+**Importante:** el dataset RVR1960 declara copyright de Sociedades Bíblicas. No redistribuir públicamente el APK con este corpus sin la autorización correspondiente.
 
 Aplicación Android nativa en **Kotlin + Jetpack Compose + Room** orientada a lectura bíblica offline.
 

@@ -1,16 +1,23 @@
 [
   {
+    "id": "rvr1960",
+    "name": "Biblia Reina-Valera 1960",
+    "abbreviation": "RVR1960",
+    "language": "Español (América Latina)",
+    "license": "© Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas. Dataset de prueba proporcionado por el usuario."
+  },
+  {
     "id": "rv1909",
     "name": "Reina-Valera 1909",
     "abbreviation": "RV1909",
     "language": "Español",
-    "license": "Dominio público"
+    "license": "Dominio público • corpus demostrativo"
   },
   {
     "id": "web",
     "name": "World English Bible",
     "abbreviation": "WEB",
     "language": "English",
-    "license": "Public Domain"
+    "license": "Public Domain • demo corpus"
   }
 ]
