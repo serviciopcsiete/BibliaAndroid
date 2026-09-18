@@ -70,7 +70,17 @@ fun BibleApp(vm: AppViewModel = viewModel()) {
                     HomeScreen(vm) { book, chapter -> nav.navigate("reader/$book/$chapter") }
                 }
                 composable("bible") {
-                    LibraryScreen(vm) { book, chapter -> nav.navigate("reader/$book/$chapter") }
+                    LibraryScreen(
+                        vm = vm,
+                        openBook = { book -> nav.navigate("chapters/$book") },
+                        openInfo = { book -> nav.navigate("bookinfo/$book") }
+                    )
+                }
+                composable("chapters/{book}") { entry ->
+                    val book = entry.arguments?.getString("book") ?: "GEN"
+                    ChapterPickerScreen(vm, book) { chapter ->
+                        nav.navigate("reader/$book/$chapter")
+                    }
                 }
                 composable("plans") {
                     PlansScreen(vm) { reference -> nav.navigate("search?initial=$reference") }
@@ -97,8 +107,8 @@ fun BibleApp(vm: AppViewModel = viewModel()) {
                 }
                 composable("bookinfo/{book}") { entry ->
                     val book = entry.arguments?.getString("book") ?: "GEN"
-                    BookInfoScreen(vm, book) { selectedBook ->
-                        nav.navigate("reader/$selectedBook/1")
+                    BookInfoScreen(vm, book) { chapter ->
+                        nav.navigate("reader/$book/$chapter")
                     }
                 }
                 composable(
@@ -115,7 +125,13 @@ fun BibleApp(vm: AppViewModel = viewModel()) {
                         book = book,
                         chapter = chapter,
                         onBack = { nav.popBackStack() },
-                        onInfo = { nav.navigate("bookinfo/$book") }
+                        onInfo = { nav.navigate("bookinfo/$book") },
+                        onChapterChange = { targetBook, targetChapter ->
+                            nav.navigate("reader/$targetBook/$targetChapter") {
+                                launchSingleTop = true
+                                popUpTo("reader/$book/$chapter") { inclusive = true }
+                            }
+                        }
                     )
                 }
             }

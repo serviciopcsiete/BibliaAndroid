@@ -28,6 +28,11 @@ class AssetBibleRepository(private val context:Context) {
     fun chapterBlocks(version:String,book:String,chapter:Int):List<BibleBlock> =
         versionData(version).blocks["$book.$chapter"].orEmpty()
 
+    fun verse(version:String, book:String, chapter:Int, verse:Int):Verse? =
+        versionData(version).verses.firstOrNull {
+            it.bookId == book && it.chapter == chapter && it.verse == verse
+        }
+
     fun search(version:String, query:String, limit:Int=200):List<Verse>{
         val normalized=norm(query)
         if(normalized.isBlank()) return emptyList()

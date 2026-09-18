@@ -9,22 +9,28 @@ import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items as gridItems
 import androidx.compose.foundation.pager.HorizontalPager
 import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.FavoriteBorder
 import androidx.compose.material.icons.filled.Info
+import androidx.compose.material.icons.filled.GridView
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material3.AssistChip
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -62,7 +68,8 @@ fun ReaderScreen(
     book: String,
     chapter: Int,
     onBack: () -> Unit,
-    onInfo: () -> Unit
+    onInfo: () -> Unit,
+    onChapterChange: (String, Int) -> Unit
 ) {
     val prefs by vm.prefs.collectAsState()
     val bookData = vm.repo.books.find { it.id == book }
@@ -70,6 +77,20 @@ fun ReaderScreen(
         mutableStateOf(vm.repo.chapterBlocks(prefs.version, book, chapter))
     }
     var selected by remember { mutableStateOf<Verse?>(null) }
+    var showChapterPicker by remember { mutableStateOf(false) }
+
+    val orderedBooks = vm.repo.books.sortedBy { it.order }
+    val bookIndex = orderedBooks.indexOfFirst { it.id == book }
+    val previousChapter: Pair<String, Int>? = when {
+        chapter > 1 -> book to (chapter - 1)
+        bookIndex > 0 -> orderedBooks[bookIndex - 1].let { it.id to it.chapters }
+        else -> null
+    }
+    val nextChapter: Pair<String, Int>? = when {
+        bookData != null && chapter < bookData.chapters -> book to (chapter + 1)
+        bookIndex >= 0 && bookIndex < orderedBooks.lastIndex -> orderedBooks[bookIndex + 1].id to 1
+        else -> null
+    }
 
     LaunchedEffect(book, chapter, prefs.version) {
         blocks = vm.repo.chapterBlocks(prefs.version, book, chapter)
@@ -81,10 +102,10 @@ fun ReaderScreen(
         topBar = {
             TopAppBar(
                 title = {
-                    Column {
+                    Column(Modifier.clickable { showChapterPicker = true }) {
                         Text("${bookData?.name ?: book} $chapter")
                         Text(
-                            vm.repo.versions.find { it.id == prefs.version }?.abbreviation ?: prefs.version,
+                            "RVR1960 · toca para cambiar capítulo",
                             style = MaterialTheme.typography.labelSmall
                         )
                     }
@@ -100,6 +121,11 @@ fun ReaderScreen(
                     }
                 }
             )
+        },
+        floatingActionButton = {
+            FloatingActionButton(onClick = { showChapterPicker = true }) {
+                Icon(Icons.Default.GridView, contentDescription = "Ir a capítulo")
+            }
         }
     ) { padding ->
         when {
@@ -119,12 +145,17 @@ fun ReaderScreen(
             }
             prefs.pageMode -> PagedReader(
                 blocks = blocks,
+                previousBlocks = previousChapter?.let { vm.repo.chapterBlocks(prefs.version, it.first, it.second) }.orEmpty(),
+                nextBlocks = nextChapter?.let { vm.repo.chapterBlocks(prefs.version, it.first, it.second) }.orEmpty(),
+                previousChapter = previousChapter,
+                nextChapter = nextChapter,
                 version = prefs.version,
                 book = book,
                 chapter = chapter,
                 font = prefs.fontSize,
                 modifier = Modifier.padding(padding),
-                onVerse = { selected = it }
+                onVerse = { selected = it },
+                onChapterChange = onChapterChange
             )
             else -> ScrollReader(
                 blocks = blocks,
@@ -135,6 +166,42 @@ fun ReaderScreen(
                 modifier = Modifier.padding(padding),
                 onVerse = { selected = it }
             )
+        }
+    }
+
+    if (showChapterPicker && bookData != null) {
+        ModalBottomSheet(onDismissRequest = { showChapterPicker = false }) {
+            Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp)) {
+                Text(
+                    "${bookData.name} · Capítulos",
+                    style = MaterialTheme.typography.headlineSmall,
+                    fontWeight = FontWeight.Bold
+                )
+                Text(
+                    "Selecciona un capítulo para saltar directamente.",
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Spacer(Modifier.height(14.dp))
+                LazyVerticalGrid(
+                    columns = GridCells.Fixed(5),
+                    contentPadding = PaddingValues(bottom = 28.dp),
+                    horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalArrangement = Arrangement.spacedBy(8.dp),
+                    modifier = Modifier.fillMaxWidth().fillMaxHeight(0.58f)
+                ) {
+                    gridItems((1..bookData.chapters).toList()) { targetChapter ->
+                        Button(
+                            onClick = {
+                                showChapterPicker = false
+                                if (targetChapter != chapter) onChapterChange(book, targetChapter)
+                            },
+                            contentPadding = PaddingValues(vertical = 10.dp)
+                        ) {
+                            Text(targetChapter.toString())
+                        }
+                    }
+                }
+            }
         }
     }
 
@@ -164,40 +231,81 @@ private fun ScrollReader(
 @Composable
 private fun PagedReader(
     blocks: List<BibleBlock>,
+    previousBlocks: List<BibleBlock>,
+    nextBlocks: List<BibleBlock>,
+    previousChapter: Pair<String, Int>?,
+    nextChapter: Pair<String, Int>?,
     version: String,
     book: String,
     chapter: Int,
     font: Int,
     modifier: Modifier,
-    onVerse: (Verse) -> Unit
+    onVerse: (Verse) -> Unit,
+    onChapterChange: (String, Int) -> Unit
 ) {
     val perPage = (36 - (font - 14)).coerceIn(10, 28)
-    val pages = blocks.chunked(perPage)
-    val state = rememberPagerState(pageCount = { pages.size })
+    val currentPages = blocks.chunked(perPage)
+    val previousPreview = previousBlocks.chunked(perPage).lastOrNull()
+    val nextPreview = nextBlocks.chunked(perPage).firstOrNull()
+
+    val hasPrevious = previousChapter != null && previousPreview != null
+    val hasNext = nextChapter != null && nextPreview != null
+    val pageCount = currentPages.size + (if (hasPrevious) 1 else 0) + (if (hasNext) 1 else 0)
+    val currentStart = if (hasPrevious) 1 else 0
+    val state = rememberPagerState(initialPage = currentStart, pageCount = { pageCount })
+
+    LaunchedEffect(state.settledPage, book, chapter) {
+        if (hasPrevious && state.settledPage == 0) {
+            previousChapter?.let { onChapterChange(it.first, it.second) }
+        } else if (hasNext && state.settledPage == pageCount - 1) {
+            nextChapter?.let { onChapterChange(it.first, it.second) }
+        }
+    }
 
     HorizontalPager(state = state, modifier = modifier.fillMaxSize()) { page ->
+        val isPreviousPreview = hasPrevious && page == 0
+        val isNextPreview = hasNext && page == pageCount - 1
+        val visibleBlocks = when {
+            isPreviousPreview -> previousPreview.orEmpty()
+            isNextPreview -> nextPreview.orEmpty()
+            else -> currentPages[page - currentStart]
+        }
+        val displayBook = when {
+            isPreviousPreview -> previousChapter?.first ?: book
+            isNextPreview -> nextChapter?.first ?: book
+            else -> book
+        }
+        val displayChapter = when {
+            isPreviousPreview -> previousChapter?.second ?: chapter
+            isNextPreview -> nextChapter?.second ?: chapter
+            else -> chapter
+        }
         val offset = ((state.currentPage - page) + state.currentPageOffsetFraction).coerceIn(-1f, 1f)
+
         Card(
             modifier = Modifier
-                .padding(12.dp)
+                .padding(horizontal = 10.dp, vertical = 8.dp)
                 .fillMaxSize()
                 .graphicsLayer {
-                    rotationY = offset * 18f
-                    cameraDistance = 18f * density
-                    alpha = 1f - (offset.absoluteValue * 0.12f)
+                    rotationY = offset * 24f
+                    cameraDistance = 20f * density
+                    translationX = offset * 18f
+                    alpha = 1f - (offset.absoluteValue * 0.10f)
                 }
         ) {
-            LazyColumn(contentPadding = PaddingValues(22.dp)) {
-                items(pages[page]) { block ->
-                    BibleBlockRow(block, version, book, chapter, font, onVerse)
+            LazyColumn(contentPadding = PaddingValues(horizontal = 22.dp, vertical = 18.dp)) {
+                items(visibleBlocks) { block ->
+                    BibleBlockRow(block, version, displayBook, displayChapter, font, onVerse)
                 }
-                item {
-                    Text(
-                        text = "${page + 1} / ${pages.size}",
-                        modifier = Modifier.fillMaxWidth().padding(16.dp),
-                        style = MaterialTheme.typography.labelSmall,
-                        textAlign = TextAlign.Center
-                    )
+                if (!isPreviousPreview && !isNextPreview) {
+                    item {
+                        Text(
+                            text = "${page - currentStart + 1} / ${currentPages.size}",
+                            modifier = Modifier.fillMaxWidth().padding(16.dp),
+                            style = MaterialTheme.typography.labelSmall,
+                            textAlign = TextAlign.Center
+                        )
+                    }
                 }
             }
         }

@@ -58,3 +58,9 @@ La V1 no requiere cuenta, servidor, analítica ni permisos sensibles. Los favori
 - Page curl físico con shader opcional.
 - Widget de versículo diario.
 - Backup/sincronización opcional.
+### Navegacion de lectura (v1.2.0)
+- Con **Cambio de hoja** activo, el lector usa swipe horizontal y continua entre capitulos.
+- Con **Cambio de hoja** desactivado, el lector usa scroll vertical dentro del capitulo actual.
+- El boton flotante de capitulos y el titulo del lector abren un selector rapido para saltar a cualquier capitulo del libro.
+- La Biblioteca esta agrupada por secciones biblicas y la ficha de informacion de cada libro incluye sus capitulos.
+- La version visible de esta entrega es RVR1960.
