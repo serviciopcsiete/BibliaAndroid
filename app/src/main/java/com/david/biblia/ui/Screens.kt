@@ -428,8 +428,7 @@ fun BookInfoScreen(vm: AppViewModel, book: String, openChapter: (Int) -> Unit) {
                 InfoBlock("Contexto", details.context)
                 InfoBlock("Propósito", details.purpose)
                 InfoBlock("Temas", details.themes.joinToString(" • "))
-                InfoBlock("Estructura", details.outline.joinToString("
-"))
+                InfoBlock("Estructura", details.outline.joinToString("\n"))
             }
         }
         bookData?.let { currentBook ->
